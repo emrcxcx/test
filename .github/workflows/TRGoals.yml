@@ -33,11 +33,7 @@ jobs:
       - name: MonoTV.py Çalıştır
         run: python MonoTV.py
         
-      - name: TRGoals2.py Çalıştır
-        run: python trgoals2.py
-        
-      - name: MonoTV2.py Çalıştır
-        run: python monotv2.py
+      
 
       - name: Alive 1
         run: curl https://kerimmkirac-dproxy.hf.space
@@ -48,33 +44,26 @@ jobs:
       - name: Alive 3
         run: curl https://kerimmkirac-daddyliveevents.hf.space
 
-      - name: vavoo.m3u dosyasını oluştur 
-        run: |
-          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/tospecial/voturk.m3u" | \
-          sed -e 's|https://gitlatte-free.hf.space|https://kerimmkirac-dproxy.hf.space|g' \
-              -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
-          > vavoo.m3u
+      
 
       - name: daddylive.m3u dosyasını oluştur 
         run: |
           curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/dl-daddyliveall.m3u" | \
-          sed -e 's|https://gitlatte-cloudstream.hf.space|https://kerimmkirac-daddylive.hf.space|g' \
+          sed -e 's|https://tinyurl.com/lattedl|https://kerimmkirac-daddylive.hf.space/watch|g' \
               -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
           > daddylive.m3u
 
       - name: daddyliveevents.m3u dosyasını oluştur 
         run: |
           curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/daddyliveevents.m3u" | \
-          sed -e 's|https://gitlatte-cloudstream.hf.space|https://kerimmkirac-daddyliveevents.hf.space|g' \
+          sed -e 's|https://tinyurl.com/lattedl|https://kerimmkirac-daddyliveevents.hf.space/watch|g' \
               -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
           > daddyliveevents.m3u
 
 
 
         
-      - name: M3U Listesini İndir 
-        run: |
-          curl -s "https://raw.githubusercontent.com/Playtvapp/Playtvlist/refs/heads/main/playtvfull.m3u" > play.m3u
+      
       
       
           
