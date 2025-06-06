@@ -1,4 +1,6 @@
 
+Bu projede kullanılan dosyalar [kerimmkirac adlı](https://github.com/kerimmkirac/) reposundan alınmıştır.
+
 ## VLC Header Test
 
 ```bash
