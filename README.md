@@ -1,5 +1,5 @@
 
-Bu projede kullanılan dosyalar [kerimmkirac adlı](https://github.com/kerimmkirac/) reposundan alınmıştır.
+Bu projede kullanılan dosyalar [kerimmkirac](https://github.com/kerimmkirac/) adlı kullanıcının reposundan alınmıştır.
 
 ## VLC Header Test
 
