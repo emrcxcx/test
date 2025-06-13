@@ -1,61 +1,61 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"
 
-#EXTINF:-1 tvg-id="db96c505df261c275f9c918d53974e88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: White Water Season 9 Episode 8 (DISCOVERY USA)
-https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
-
-#EXTINF:-1 tvg-id="59f7f3d6fce86d929664bf1cf558469f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 19 (UNIVISION USA)
-https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8
-
-#EXTINF:-1 tvg-id="f796726a99587087e0af8d412a892f51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Never Ever Mets Season 2 Episode 10 (OWN USA)
-https://windnew.newkso.ru/wind/premium331/mono.m3u8
+#EXTINF:-1 tvg-id="00028785d6effa450f0087de638621e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",FIFA World Cup 26: One Year to Go New (FOXNY USA)
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 
 #EXTINF:-1 tvg-id="aa9bd9f01d138e74c355d5d74213ed23" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="TV SHOWS",NBA Countdown Live (ABC NY USA)
 https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 
-#EXTINF:-1 tvg-id="00028785d6effa450f0087de638621e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",FIFA World Cup 26: One Year to Go New (FOXNY USA)
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-
-#EXTINF:-1 tvg-id="4ca8f1369288966b6a57e0ea25e51406" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mama June: From Not to Hot Season 7 Episode 3 (WETV USA)
-https://ddy6new.newkso.ru/ddy6/premium655/mono.m3u8
-
 #EXTINF:-1 tvg-id="e2739e991d812d623a1f0f4032161245" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",On Patrol: First Shift Season 3 Episode 87 (REELZ USA)
 https://zekonew.newkso.ru/zeko/premium293/mono.m3u8
 
-#EXTINF:-1 tvg-id="58ad3c2aa0eea48e3d99c76743378b60" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Chile - Primera Division : Deportes Limache vs Unión La Calera (TNT SPORTS PREMIUM HD CHILE)
-https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8
+#EXTINF:-1 tvg-id="db96c505df261c275f9c918d53974e88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: White Water Season 9 Episode 8 (DISCOVERY USA)
+https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
 
 #EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Houston Dash vs San Diego Wave (CBS SPORTS GOLAZO USA)
 https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
-#EXTINF:-1 tvg-id="3a7ed9fc875a6386a81de12e271d73e3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="BOXING",Boxing : LeAnna Cruz vs Regina Chavez (DAZN PPV)
-https://windnew.newkso.ru/wind/premium59/mono.m3u8
+#EXTINF:-1 tvg-id="f796726a99587087e0af8d412a892f51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Never Ever Mets Season 2 Episode 10 (OWN USA)
+https://windnew.newkso.ru/wind/premium331/mono.m3u8
+
+#EXTINF:-1 tvg-id="59f7f3d6fce86d929664bf1cf558469f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 19 (UNIVISION USA)
+https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8
+
+#EXTINF:-1 tvg-id="4ca8f1369288966b6a57e0ea25e51406" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mama June: From Not to Hot Season 7 Episode 3 (WETV USA)
+https://ddy6new.newkso.ru/ddy6/premium655/mono.m3u8
+
+#EXTINF:-1 tvg-id="58ad3c2aa0eea48e3d99c76743378b60" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Chile - Primera Division : Deportes Limache vs Unión La Calera (TNT SPORTS PREMIUM HD CHILE)
+https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8
 
 #EXTINF:-1 tvg-id="5c5b808844d3b919fafb110a96d00eef" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",NCAA Outdoor Championships Men's Day 2 Men's &amp; Women's College Track and Field (ESPN2 USA)
 https://windnew.newkso.ru/wind/premium45/mono.m3u8
 
-#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Houston Dash vs San Diego Wave (TSN2)
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
-
 #EXTINF:-1 tvg-id="18dde6050028aebdadcb19bd19fdbf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Iran vs Slovenia (POLSAT SPORT 2 POLAND)
 https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="271f8f0593c30870307487b64ccc255f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",AVP Beach Volleyball League Week 3 - Miami Live (CBS SPORTS NETWORK USA)
-https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
 
 #EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (POLSAT SPORT 1 POLAND)
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
+#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Houston Dash vs San Diego Wave (TSN2)
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 tvg-id="3a7ed9fc875a6386a81de12e271d73e3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="BOXING",Boxing : LeAnna Cruz vs Regina Chavez (DAZN PPV)
+https://windnew.newkso.ru/wind/premium59/mono.m3u8
+
 #EXTINF:-1 tvg-id="5c5b808844d3b919fafb110a96d00eef" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",NCAA Outdoor Championships Men's Day 2 Men's &amp; Women's College Track and Field (SPORT KLUB 1 CROATIA)
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="18dde6050028aebdadcb19bd19fdbf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Iran vs Slovenia (SPORT KLUB 2 CROATIA)
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+#EXTINF:-1 tvg-id="271f8f0593c30870307487b64ccc255f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",AVP Beach Volleyball League Week 3 - Miami Live (CBS SPORTS NETWORK USA)
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
 
 #EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (MAX SPORT 2 BULGARIA)
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
 
 #EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (ARENA PREMIUM 2 SERBIA)
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="18dde6050028aebdadcb19bd19fdbf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Iran vs Slovenia (SPORT KLUB 2 CROATIA)
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 
 #EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (SPORT KLUB 3 CROATIA)
 https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
@@ -69,20 +69,20 @@ https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
 #EXTINF:-1 tvg-id="4a6f8f3908df88b381b6685e2842c1a8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago White Sox (CHICAGO SPORTS NETWORK)
 https://windnew.newkso.ru/wind/premium776/mono.m3u8
 
-#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (MLB LEAGUE PASS)
-https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
+#EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Oakland Athletics (MLB LEAGUE PASS)
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
 https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 
-#EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Oakland Athletics (MLB LEAGUE PASS)
-https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
-
-#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (SPACE CITY HOME NETWORK)
-https://dokko1new.newkso.ru/dokko1/premium921/mono.m3u8
+#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (MLB LEAGUE PASS)
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
 
 #EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Oakland Athletics (NBCS CALIFORNIA USA)
 https://windnew.newkso.ru/wind/premium755/mono.m3u8
+
+#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (SPACE CITY HOME NETWORK)
+https://dokko1new.newkso.ru/dokko1/premium921/mono.m3u8
 
 #EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Oakland Athletics (FANDUEL SPORTS NETWORK KANSAS CITY)
 https://zekonew.newkso.ru/zeko/premium895/mono.m3u8
@@ -171,38 +171,38 @@ https://windnew.newkso.ru/wind/premium466/mono.m3u8
 #EXTINF:-1 tvg-id="68690612ed4e0937e471c7b72bc4e1ec" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Oklahoma City Thunder vs Indiana Pacers (SPORT 5 ISRAEL)
 https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="701843d516cd28c87fac568a5abf67eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: Mine Rescue With Freddy &amp; Juan Season 5 (DISCOVERY USA)
-https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
-
-#EXTINF:-1 tvg-id="c3ba410e2f582335cb1241f6d7b034c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The UnXplained Season 4 (HISTORY USA)
-https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
-
-#EXTINF:-1 tvg-id="b814ed88289f6aa92b40bcd4f3e54e05" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Diners Drive-Ins and Dives Season 51 Episode 20 (THE FOOD NETWORK)
-https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
-
-#EXTINF:-1 tvg-id="af19d7bb3d142519c4a8614de9752249" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : MI New York vs Texas Super Kings (WILLOW CRICKET)
-https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
-
-#EXTINF:-1 tvg-id="fe1aedd11d6dfa5faa06ce61a4baceaf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Missing Presumed Dead Season 2 Episode 2 (NATIONAL GEOGRAPHIC (NGC))
-https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
-
-#EXTINF:-1 tvg-id="373778c965f0774be6ffcefa6ad139af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sweet Life: Los Angeles Season 1 Episode 1 (OWN USA)
-https://windnew.newkso.ru/wind/premium331/mono.m3u8
-
-#EXTINF:-1 tvg-id="96aed378d5deec7b5b2966ef93df13ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Great Performances at the Met Season 19 Episode 4 (PBS USA)
-https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
+#EXTINF:-1 tvg-id="ef0b81bdfdea748c19433befb7fbd813" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Pokerstars Big Game on Tour Season 2 Episode 2 (FOX SPORTS 1 USA)
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 
 #EXTINF:-1 tvg-id="5f82a00d877f13e567ba4bf31b43eae5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",BMF Discovery Season 4 Episode 2 (STARZ USA)
 https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
 
+#EXTINF:-1 tvg-id="fe1aedd11d6dfa5faa06ce61a4baceaf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Missing Presumed Dead Season 2 Episode 2 (NATIONAL GEOGRAPHIC (NGC))
+https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
+
+#EXTINF:-1 tvg-id="701843d516cd28c87fac568a5abf67eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: Mine Rescue With Freddy &amp; Juan Season 5 (DISCOVERY USA)
+https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
+
+#EXTINF:-1 tvg-id="373778c965f0774be6ffcefa6ad139af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sweet Life: Los Angeles Season 1 Episode 1 (OWN USA)
+https://windnew.newkso.ru/wind/premium331/mono.m3u8
+
+#EXTINF:-1 tvg-id="c3ba410e2f582335cb1241f6d7b034c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The UnXplained Season 4 (HISTORY USA)
+https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
+
+#EXTINF:-1 tvg-id="96aed378d5deec7b5b2966ef93df13ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Great Performances at the Met Season 19 Episode 4 (PBS USA)
+https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
+
 #EXTINF:-1 tvg-id="06e74e29a8b780d7dbdf3f1b0e324cac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Lakefront Bargain Hunt: Renovation Season 4 Episode 9 (MAGNOLIA NETWORK)
 https://ddy6new.newkso.ru/ddy6/premium299/mono.m3u8
 
-#EXTINF:-1 tvg-id="ef0b81bdfdea748c19433befb7fbd813" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Pokerstars Big Game on Tour Season 2 Episode 2 (FOX SPORTS 1 USA)
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+#EXTINF:-1 tvg-id="b814ed88289f6aa92b40bcd4f3e54e05" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Diners Drive-Ins and Dives Season 51 Episode 20 (THE FOOD NETWORK)
+https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
 
 #EXTINF:-1 tvg-id="d081dd7afc8ff4b0ce5e9bd09467bf8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera Nacional : Gimnasia y Tiro vs Quilmes (TYC SPORTS ARGENTINA)
 https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8
+
+#EXTINF:-1 tvg-id="af19d7bb3d142519c4a8614de9752249" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : MI New York vs Texas Super Kings (WILLOW CRICKET)
+https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
 
 #EXTINF:-1 tvg-id="1c53c42f6d37085e76edc97c732839d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Utah Royals vs NJ/NY Gotham FC (MSG USA)
 https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
@@ -222,6 +222,9 @@ https://zekonew.newkso.ru/zeko/premium896/mono.m3u8
 #EXTINF:-1 tvg-id="8d6bd8a412b521a2402d8f7d4af46082" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Arizona Diamondbacks vs San Diego Padres (MLB LEAGUE PASS)
 https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 
+#EXTINF:-1 tvg-id="0b0a07b5b76ab7f0aedde383f08d77da" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Proof Is Out There Season 5 Episode 1 (HISTORY USA)
+https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
+
 #EXTINF:-1 tvg-id="0e58c9e0f78e8aab690970c3487d64ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Bay FC vs Orlando Pride (OPTUS SPORT)
 https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
 
@@ -230,9 +233,6 @@ https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
 
 #EXTINF:-1 tvg-id="544af5b27b609f538d10ee28ae93fc45" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Real Time With Bill Maher Season 23 Episode 19 (HBO USA)
 https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
-
-#EXTINF:-1 tvg-id="0b0a07b5b76ab7f0aedde383f08d77da" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Proof Is Out There Season 5 Episode 1 (HISTORY USA)
-https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
 
 #EXTINF:-1 tvg-id="9b6bf6f08922ad8a85aea55af880c3f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",WNBA : Dallas Wings vs Las Vegas Aces Live (ION USA)
 https://windnew.newkso.ru/wind/premium325/mono.m3u8
@@ -270,11 +270,11 @@ https://windnew.newkso.ru/wind/premium406/mono.m3u8
 #EXTINF:-1 tvg-id="09b845139bb2c23632ee328a6bb602db" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Couples Therapy Season 4 Episode 18 (SHOWTIME 2 USA (SHO2) USA)
 https://zekonew.newkso.ru/zeko/premium792/mono.m3u8
 
-#EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX SPORTS 1 USA)
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
-
 #EXTINF:-1 tvg-id="12d67e45e4902d9a559dee95defc8f61" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Los Angeles FC vs Toronto FC (MLS SEASON PASS)
 https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
+
+#EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX SPORTS 1 USA)
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 
 #EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX DEPORTES)
 https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
@@ -318,35 +318,35 @@ https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (TENNIS CHANNEL)
 https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
 
-#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (POLSAT SPORT 1 POLAND)
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (SKY SPORTS TENNIS UK)
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (ARENA PREMIUM 1 SERBIA)
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (POLSAT SPORT 1 POLAND)
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (TV4 TENNIS)
 https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTKLUB 1 CROATIA)
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (MAX SPORT 2 BULGARIA)
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
+#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (ARENA PREMIUM 1 SERBIA)
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (BEIN SPORTS 2 FRANCE)
 https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
 
-#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTV2 BR)
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTKLUB 1 CROATIA)
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (COSMOTE SPORT 7 HD)
 https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (MAX SPORT 1 BULGARIA)
 https://windnew.newkso.ru/wind/premium472/mono.m3u8
+
+#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (MAX SPORT 2 BULGARIA)
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTV2 BR)
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (ARENA SPORT 1 SERBIA)
 https://windnew.newkso.ru/wind/premium429/mono.m3u8
@@ -417,14 +417,17 @@ https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
 #EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
-#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
 #EXTINF:-1 tvg-id="589416bbea5e57d66397260f1e76503b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="EQUESTRIAN",Equestrian: LOTTO CSIO Sopot 2025 (POLSAT SPORT 3 POLAND)
 https://windnew.newkso.ru/wind/premium129/mono.m3u8
 
 #EXTINF:-1 tvg-id="8dfd427c5045beffed957fe504835e20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Men's Quarterfinal 1 (MOVISTAR DEPORTES 3 SPAIN)
 https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
+
+#EXTINF:-1 tvg-id="8dfd427c5045beffed957fe504835e20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Men's Quarterfinal 1 (COSMOTE SPORT 9 GREECE)
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
+
+#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
 #EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (FOX SOCCER PLUS)
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
@@ -432,14 +435,11 @@ https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (PDC TV)
 https://windnew.newkso.ru/wind/premium43/mono.m3u8
 
-#EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (SKY SPORT 3 NZ)
-https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
-
-#EXTINF:-1 tvg-id="8dfd427c5045beffed957fe504835e20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Men's Quarterfinal 1 (COSMOTE SPORT 9 GREECE)
-https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
-
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (SKY SPORTS ACTION UK)
 https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
+
+#EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (SKY SPORT 3 NZ)
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
 
 #EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (BEIN SPORTS 5 MAX FRANCE)
 https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
@@ -522,20 +522,20 @@ https://windnew.newkso.ru/wind/premium260/mono.m3u8
 #EXTINF:-1 tvg-id="56ab49e8b0cf9ea81a1d83bc23a52dbc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Ladies European Tour Hulencourt Women’s Open (SKY SPORTS MIX UK)
 https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
 
-#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (SPORT TV1 PORTUGAL)
-https://windnew.newkso.ru/wind/premium49/mono.m3u8
+#EXTINF:-1 tvg-id="c87266218f8cadb846f9e4c25721cd82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",Live racing from Sandown York Goodwood Market Rasen Cork and Fairyhouse (RACING TV UK)
+https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
 
 #EXTINF:-1 tvg-id="ca1eb804faf06ab12aaf0ca24bd79032" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Women's Quarterfinal 4 (MOVISTAR DEPORTES 3 SPAIN)
 https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
 
-#EXTINF:-1 tvg-id="c87266218f8cadb846f9e4c25721cd82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",Live racing from Sandown York Goodwood Market Rasen Cork and Fairyhouse (RACING TV UK)
-https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
-
-#EXTINF:-1 tvg-id="ca1eb804faf06ab12aaf0ca24bd79032" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Women's Quarterfinal 4 (COSMOTE SPORT 9 GREECE)
-https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
+#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (SPORT TV1 PORTUGAL)
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 
 #EXTINF:-1 tvg-id="56ab49e8b0cf9ea81a1d83bc23a52dbc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Ladies European Tour Hulencourt Women’s Open (ZIGGO SPORT 6 NL)
 https://zekonew.newkso.ru/zeko/premium901/mono.m3u8
+
+#EXTINF:-1 tvg-id="ca1eb804faf06ab12aaf0ca24bd79032" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Women's Quarterfinal 4 (COSMOTE SPORT 9 GREECE)
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
 
 #EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
@@ -552,23 +552,23 @@ https://windnew.newkso.ru/wind/premium47/mono.m3u8
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (MATCH TV RUSSIA)
 https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
 
-#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (ARENA PREMIUM 1 SERBIA)
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (NOVA SPORTS 5 GREECE)
 https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
 
-#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (SPORTKLUB 1 CROATIA)
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (ARENA PREMIUM 1 SERBIA)
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (MATCH BOX RUSSIA)
 https://nfsnew.newkso.ru/nfs/premium395/mono.m3u8
 
-#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (SPORTV2 BR)
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (SPORTKLUB 1 CROATIA)
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (RMC SPORT 2 FRANCE)
 https://ddy6new.newkso.ru/ddy6/premium120/mono.m3u8
+
+#EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (SPORTV2 BR)
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (BANDSPORTS BRASIL)
 https://windnew.newkso.ru/wind/premium275/mono.m3u8
@@ -645,14 +645,20 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTINF:-1 tvg-id="eef228cb819f3c34bc57f60cc18d4967" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Romania LNBM Mozzart : Clubul Sportiv Vâlcea 1924 vs CSO Voluntari (DIGI SPORT 3 ROMANIA)
 https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
 
+#EXTINF:-1 tvg-id="8692f03d0cbb9678c3646610e558ef68" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV EVENTS",UAE Warriors 60 (UFC FIGHT PASS)
+https://windnew.newkso.ru/wind/premium68/mono.m3u8
+
 #EXTINF:-1 tvg-id="0e8e4a04bdd5c7f9387a6e96af733da4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Price Is Right Season 53 Episode 176 (CBSNY USA)
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 
-#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (4SEVEN UK)
-https://windnew.newkso.ru/wind/premium354/mono.m3u8
+#EXTINF:-1 tvg-id="7ed143c69d2ce1687734b787fca05e41" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV EVENTS",2025 PDRA North vs South Shootout (FLORACING)
+https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (SKY SPORTS F1 UK)
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (4SEVEN UK)
+https://windnew.newkso.ru/wind/premium354/mono.m3u8
 
 #EXTINF:-1 tvg-id="6b4444890e81f1b1720e9d181ca79328" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",ICF Canoe Slalom World Cup Day 1 (SKY SPORT 4 NZ)
 https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
@@ -660,17 +666,17 @@ https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
 #EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
-#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORTDIGITAL FUSSBALL DE)
-https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8
-
-#EXTINF:-1 tvg-id="cea6210a1ba4e3a4dcddb1dac67155a4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : FYR Macedonia vs Latvia (ARENA SPORT 4 SERBIA)
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
 #EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (BEIN SPORTS 1 MALAYSIA)
 https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
 
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORTDIGITAL FUSSBALL DE)
+https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8
+
 #EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (CANAL 11 PORTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="cea6210a1ba4e3a4dcddb1dac67155a4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : FYR Macedonia vs Latvia (ARENA SPORT 4 SERBIA)
+https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
 #EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (BANDSPORTS BRASIL)
 https://windnew.newkso.ru/wind/premium275/mono.m3u8
@@ -705,26 +711,26 @@ https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 #EXTINF:-1 tvg-id="12a3475dea676af56d2ae3192f85c8a4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="COMBAT SPORTS",Judo: World Championships World Championships. Day 1. Final Rounds. (SPORT 5 ISRAEL)
 https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (FOX DEPORTES)
-https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
-
 #EXTINF:-1 tvg-id="f75db45f949136f476376fb8d33747f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Lithuanian League : Suduva vs Zalgiris Kaunas (SPORT KLUB 4 CROATIA)
 https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (FOX DEPORTES)
+https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
 
 #EXTINF:-1 tvg-id="23863fda16ffa62da737f93e0dc8c605" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",MTS Streetball League : Sokobanja (ARENA SPORT 3 SERBIA)
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
 
-#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (SPORT TV1 PORTUGAL)
-https://windnew.newkso.ru/wind/premium49/mono.m3u8
-
 #EXTINF:-1 tvg-id="aab1a6bb9e2cdf018ad0c520a2168d40" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Men's Basketball National League (DIGI SPORTS 3 ROMANIA)
 https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
 
-#EXTINF:-1 tvg-id="cbb7b05eba484c0016c8347894724c2d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Greece W vs Slovenia W (SPORT KLUB 3 CROATIA)
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
 #EXTINF:-1 tvg-id="5ba3b018ca1e38137191d076aaf12716" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Montenegro W vs Hungary W (DUNA WORLD HUNGARY)
 https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (SPORT TV1 PORTUGAL)
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
+
+#EXTINF:-1 tvg-id="cbb7b05eba484c0016c8347894724c2d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Greece W vs Slovenia W (SPORT KLUB 3 CROATIA)
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
 
 #EXTINF:-1 tvg-id="5ba3b018ca1e38137191d076aaf12716" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Montenegro W vs Hungary W (ARENA PREMIUM 3 SERBIA)
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
@@ -741,23 +747,11 @@ https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTINF:-1 tvg-id="3bcd1c45a5b47479bb0dced828e737ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Örebro vs Sandviken (MAX EXTRA 1 SWEDEN)
 https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
-#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (RALLY TV)
-https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
-
 #EXTINF:-1 tvg-id="f2f6b35e3ebd8c4a50d8c41db132f75f" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",Athletics International Meeting of Seine-et-Marne 2025 (MOVISTAR DEPORTES 2 SPAIN)
 https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 
 #EXTINF:-1 tvg-id="2b478ef36fd540b50f1b415494b47805" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="TV SHOWS",2025 U.S. Open Golf Championship Second Round Live (NBC USA)
 https://windnew.newkso.ru/wind/premium53/mono.m3u8
-
-#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-#EXTINF:-1 tvg-id="d21b07ed98e1e4f54fb343c7abe57bc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day at the Races (FOX SPORTS 2 USA)
-https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (TV4 MOTOR)
-https://zekonew.newkso.ru/zeko/premium702/mono.m3u8
 
 #EXTINF:-1 tvg-id="a93705a011ac53b75be823da9010b1d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Czech Republic vs Montenegro (ARENA SPORT 2 SERBIA)
 https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
@@ -765,14 +759,26 @@ https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 #EXTINF:-1 tvg-id="eb0ad6e9a621747fc7667887d5f68cf7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League Women : Sweden vs. Ukraine (SVT 2 SWEDEN)
 https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
-#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (PDC TV)
-https://windnew.newkso.ru/wind/premium43/mono.m3u8
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (RALLY TV)
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
+
+#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-id="d21b07ed98e1e4f54fb343c7abe57bc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day at the Races (FOX SPORTS 2 USA)
+https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
 
 #EXTINF:-1 tvg-id="eb0ad6e9a621747fc7667887d5f68cf7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League Women : Sweden vs. Ukraine (JOJ SPORT SLOVAKIA)
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
 
+#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (PDC TV)
+https://windnew.newkso.ru/wind/premium43/mono.m3u8
+
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (SKY SPORTS ACTION UK)
 https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
+
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (TV4 MOTOR)
+https://zekonew.newkso.ru/zeko/premium702/mono.m3u8
 
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (TV3 MAX DENMARK)
 https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
@@ -795,11 +801,11 @@ https://windnew.newkso.ru/wind/premium60/mono.m3u8
 #EXTINF:-1 tvg-id="c8ad56439e8e40090507de0a9b23e242" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca (DIGI SPORT 1 ROMANIA)
 https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8
 
-#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 5 UK)
-https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
-
 #EXTINF:-1 tvg-id="5f3aeef567966d351b3ff863100b490f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Spain vs Croatia (ARENA SPORT 1 CROATIA)
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 5 UK)
+https://ddy6new.newkso.ru/ddy6/premium211/mono.m3u8
 
 #EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORT",Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (ESPNU USA)
 https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
@@ -870,6 +876,9 @@ https://ddy6new.newkso.ru/ddy6/premium720/mono.m3u8
 #EXTINF:-1 tvg-id="e26d8c56e7e42d061bff7a91c9c0b080" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",LPB : FC Porto vs. Benfica Lisboa (PORTO CANAL PORTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8
 
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (NBC USA)
+https://windnew.newkso.ru/wind/premium53/mono.m3u8
+
 #EXTINF:-1 tvg-id="a7b38007c0acf39b9860921c1ac83ca2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Beyond the Gates Season 1 Episode 73 (CBSNY USA)
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 
@@ -882,23 +891,20 @@ https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
 #EXTINF:-1 tvg-id="1ed21cae1ef9d45a96b12863bc5d2070" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="BOXING",Boxing : Andrew Tabiti vs Jacob Dickson (DAZN PPV)
 https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
 
-#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (NBC USA)
-https://windnew.newkso.ru/wind/premium53/mono.m3u8
-
 #EXTINF:-1 tvg-id="35376e274dd804a7ed3fce11a0f66373" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Men's College World Series : Arizona vs Coastal Carolina (ESPN USA)
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
 #EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SKY SPORTS GOLF UK)
+https://windnew.newkso.ru/wind/premium70/mono.m3u8
+
 #EXTINF:-1 tvg-id="90a98e6f2e87a60e77bc3d1704321193" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",NatWest T20 Blast : Gloucestershire vs Somerset (SKY SPORTS CRICKET UK)
 https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
 
 #EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Romania U19 vs Montenegro U19 (SPORTDIGITAL FUSSBALL DE)
 https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8
-
-#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SKY SPORTS GOLF UK)
-https://windnew.newkso.ru/wind/premium70/mono.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (GOLF CHANNEL USA)
 https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
@@ -915,11 +921,11 @@ https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (TSN4)
 https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
 
-#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (MOVISTAR GOLF)
-https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
-
 #EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Romania U19 vs Montenegro U19 (SPORT 2 ISRAEL)
 https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (MOVISTAR GOLF)
+https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SUPERSPORT GOLF)
 https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
@@ -984,20 +990,20 @@ https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1 tvg-id="9c90217036f10840707752efd3b406f0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Polish Basketball League : Anwil Wroclawek vs. Trefl Sopot (POLSAT SPORT 3 POLAND)
 https://windnew.newkso.ru/wind/premium129/mono.m3u8
 
-#EXTINF:-1 tvg-id="53d2141b1fb2b23428a93168c01c368f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers (LOITV)
-https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
-
 #EXTINF:-1 tvg-id="2044191e03e99ba0c51a234dfeca3747" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Cork City vs Bohemians (LOITV)
 https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
 
-#EXTINF:-1 tvg-id="8cd7d6d7f0fad5859a3b488594f981c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Athlone Town vs Kerry (LOITV)
-https://windnew.newkso.ru/wind/premium155/mono.m3u8
+#EXTINF:-1 tvg-id="8cd722d04b486980c1d59d63dbfdc140" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Dundalk vs UCD (LOITV)
+https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
+
+#EXTINF:-1 tvg-id="53d2141b1fb2b23428a93168c01c368f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers (LOITV)
+https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
 
 #EXTINF:-1 tvg-id="f98883316614f49f5a528ffce71da405" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Derry City vs Galway United (LOITV)
 https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
 
-#EXTINF:-1 tvg-id="8cd722d04b486980c1d59d63dbfdc140" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Dundalk vs UCD (LOITV)
-https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
+#EXTINF:-1 tvg-id="8cd7d6d7f0fad5859a3b488594f981c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Athlone Town vs Kerry (LOITV)
+https://windnew.newkso.ru/wind/premium155/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d97141e0504e6dad7e233314dd7ebc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : St Patrick's vs Drogheda United (LOITV)
 https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
@@ -1011,17 +1017,20 @@ https://dokko1new.newkso.ru/dokko1/premium158/mono.m3u8
 #EXTINF:-1 tvg-id="d8c3fb4c372ca9fc94158100ae702615" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (RAI SPORT 1 IT)
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
+#EXTINF:-1 tvg-id="5a18677d846beab0d89b79f52bd7d939" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 193 (ABC NY USA)
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+
 #EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (NBCS CALIFORNIA)
 https://windnew.newkso.ru/wind/premium755/mono.m3u8
 
-#EXTINF:-1 tvg-id="5a18677d846beab0d89b79f52bd7d939" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 193 (ABC NY USA)
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+#EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (GOLF CHANNEL USA)
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (VTV+ URUGUAY)
 https://nfsnew.newkso.ru/nfs/premium391/mono.m3u8
 
-#EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (GOLF CHANNEL USA)
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
+#EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (VIAPLAY SPORTS 1 UK)
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
 
 #EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (GOLTV USA)
 https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
@@ -1029,20 +1038,17 @@ https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
 #EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (FOX SOCCER PLUS)
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
-#EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (VIAPLAY SPORTS 1 UK)
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-
 #EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (CANAL+ FRANCE)
 https://windnew.newkso.ru/wind/premium121/mono.m3u8
 
 #EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (SKY SPORTS+ UK)
 https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
 
-#EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (MOVISTAR DEPORTES 2 SPAIN)
-https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
-
 #EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (SPORTSNET WORLD)
 https://windnew.newkso.ru/wind/premium410/mono.m3u8
+
+#EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (MOVISTAR DEPORTES 2 SPAIN)
+https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 
 #EXTINF:-1 tvg-id="64730f133724451f0a296418df201278" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Real Madrid vs. CB Malaga (MOVISTAR DEPORTES SPAIN)
 https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
@@ -1068,20 +1074,20 @@ https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
 #EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (SKY SPORTS F1 UK)
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BEIN SPORTS 1 MALAYSIA)
-https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
-
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (SPORT TV1 PORTUGAL)
 https://windnew.newkso.ru/wind/premium49/mono.m3u8
-
-#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BANDSPORTS BRASIL)
-https://windnew.newkso.ru/wind/premium275/mono.m3u8
 
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (ARENA SPORT 1 CROATIA)
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BEIN SPORTS 1 MALAYSIA)
+https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
+
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (JOJ SPORT SLOVAKIA HD)
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BANDSPORTS BRASIL)
+https://windnew.newkso.ru/wind/premium275/mono.m3u8
 
 #EXTINF:-1 tvg-id="d8444285c31d1d14463b7eb534bf3eb9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Bulgaria vs Argentina (POLSAT SPORT 1 POLAND)
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
@@ -1098,11 +1104,11 @@ https://windnew.newkso.ru/wind/premium453/mono.m3u8
 #EXTINF:-1 tvg-id="d8444285c31d1d14463b7eb534bf3eb9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Bulgaria vs Argentina (SPORT KLUB 2 CROATIA)
 https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 
-#EXTINF:-1 tvg-id="aa93e6a7cadaa552116559bce46db285" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png" group-title="TV SHOWS",UFC Live Usman vs. Buckley Live (ESPN2 USA)
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
 #EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (ALTITUDE SPORTS)
 https://nfsnew.newkso.ru/nfs/premium923/mono.m3u8
+
+#EXTINF:-1 tvg-id="aa93e6a7cadaa552116559bce46db285" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png" group-title="TV SHOWS",UFC Live Usman vs. Buckley Live (ESPN2 USA)
+https://windnew.newkso.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORT",Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORTS F1 UK)
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
@@ -1188,20 +1194,20 @@ https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
 #EXTINF:-1 tvg-id="91fc548897cf41429083c4173cb93627" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Athletes Unlimited Softball League : Talons vs Blaze (FANDUEL SPORTS NETWORK MIDWEST)
 https://zekonew.newkso.ru/zeko/premium896/mono.m3u8
 
-#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (MLB LEAGUE PASS)
-https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
-
 #EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Miami Marlins (MLB LEAGUE PASS)
 https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
-#EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Miami Marlins (MASN USA)
-https://nfsnew.newkso.ru/nfs/premium829/mono.m3u8
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (MLB LEAGUE PASS)
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (NBCS PHILADELPHIA USA)
 https://zekonew.newkso.ru/zeko/premium777/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET EAST)
 https://windnew.newkso.ru/wind/premium408/mono.m3u8
+
+#EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Miami Marlins (MASN USA)
+https://nfsnew.newkso.ru/nfs/premium829/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET WEST)
 https://windnew.newkso.ru/wind/premium407/mono.m3u8
@@ -1215,11 +1221,11 @@ https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8
 #EXTINF:-1 tvg-id="59789053b5e6bb073f20c17789ebaeab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",SpongeBob SquarePants Season 15 Episode 12 (NICK USA)
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
 
-#EXTINF:-1 tvg-id="564e5f1742d316cff37300bee6cbb676" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Live From the U.S. Open Live (GOLF CHANNEL USA)
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
-
 #EXTINF:-1 tvg-id="c0f1d88249be2880d7899a403bb7e5bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Season 41 Episode 200 (ABC NY USA)
 https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="564e5f1742d316cff37300bee6cbb676" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Live From the U.S. Open Live (GOLF CHANNEL USA)
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-id="74c2f9de3134eef76c976073c0607a6a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Miss Universe Latina el reality New (TELEMUNDO USA)
 https://windnew.newkso.ru/wind/premium131/mono.m3u8
@@ -1239,11 +1245,11 @@ https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
 #EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs New York Yankees (MLB LEAGUE PASS)
 https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
 
-#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs New York Yankees (NESN USA)
-https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
-
 #EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Tampa Bay Rays (BALLY SPORTS SUN)
 https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
+
+#EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs New York Yankees (NESN USA)
+https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
 
 #EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Tampa Bay Rays (SPORTSNET NEW YORK USA)
 https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
