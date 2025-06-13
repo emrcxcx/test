@@ -501,6 +501,8 @@ https://windnew.newkso.ru/wind/premium387/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-sur.png" group-title="Arjantin Kanalları",ESPN2 SUR
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-ar.png" group-title="Arjantin Kanalları",Fox Sports 2 Argentina
+https://windnew.newkso.ru/wind/premium788/mono.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-3-ar.png" group-title="Arjantin Kanalları",Fox Sports 3 Argentina
 https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FOXSPORTS.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-ar.png" group-title="Arjantin Kanalları",Fox Sports Argentina
