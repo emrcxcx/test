@@ -331,6 +331,8 @@ https://new.newkso.ru/wind/premium55/mono.m3u8
 https://new.newkso.ru/wind/premium59/mono.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="La noche del Ano: Juan Francisco Estrada vs. Karim Arce" tvg-logo="" group-title="Events",La noche del Ano: Juan Francisco Estrada vs. Karim Arce (02:00)
 https://new.newkso.ru/wind/premium83/mono.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="GLORY 100" tvg-logo="" group-title="Events",GLORY 100 (16:00)
+https://new.newkso.ru/wind/premium68/mono.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="KSW 107 : Phil De Fries vs Arkadiusz Wrzosek" tvg-logo="" group-title="Events",KSW 107 : Phil De Fries vs Arkadiusz Wrzosek (18:30)
 https://new.newkso.ru/wind/premium69/mono.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="ARES Fighting Championship : Axel Sola vs Ghiles Oudelha" tvg-logo="" group-title="Events",ARES Fighting Championship : Axel Sola vs Ghiles Oudelha (18:30)
@@ -427,8 +429,8 @@ https://new.newkso.ru/wind/premium147/mono.m3u8
 https://new.newkso.ru/wind/premium47/mono.m3u8
 #EXTINF:-1 tvg-id="134" tvg-name="KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1" tvg-logo="" group-title="Events",KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1 (18:00)
 https://new.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 tvg-id="879" tvg-name="Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia" tvg-logo="" group-title="Events",Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (18:30)
-https://new.newkso.ru/wind/premium879/mono.m3u8
+#EXTINF:-1 tvg-id="878" tvg-name="Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia" tvg-logo="" group-title="Events",Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (18:30)
+https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="WNBA : Indiana Fever W vs New York Liberty W" tvg-logo="" group-title="Events",WNBA : Indiana Fever W vs New York Liberty W (19:00)
 https://new.newkso.ru/wind/premium51/mono.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Basketball 3 on 3 - Big 3: Chicago" tvg-logo="" group-title="Events",Basketball 3 on 3 - Big 3: Chicago (19:00)
@@ -599,6 +601,26 @@ https://new.newkso.ru/wind/premium310/mono.m3u8
 https://new.newkso.ru/wind/premium332/mono.m3u8
 #EXTINF:-1 tvg-id="381" tvg-name="Soccer : Mexico vs Dominican Republic" tvg-logo="" group-title="Events",Soccer : Mexico vs Dominican Republic (02:15)
 https://new.newkso.ru/wind/premium381/mono.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="Soccer (MLS) : Columbus Crew vs Vancouver Whitecaps" tvg-logo="" group-title="Events",Soccer (MLS) : Columbus Crew vs Vancouver Whitecaps (23:30)
+https://new.newkso.ru/wind/premium80/mono.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="Soccer (MLS) : New England Revolution vs FC Cincinnati" tvg-logo="" group-title="Events",Soccer (MLS) : New England Revolution vs FC Cincinnati (23:30)
+https://new.newkso.ru/wind/premium81/mono.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="Soccer (MLS) : Philadelphia Union vs Charlotte FC" tvg-logo="" group-title="Events",Soccer (MLS) : Philadelphia Union vs Charlotte FC (23:30)
+https://new.newkso.ru/wind/premium82/mono.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="Soccer (MLS) : Austin FC vs New York Red Bulls" tvg-logo="" group-title="Events",Soccer (MLS) : Austin FC vs New York Red Bulls (00:30)
+https://new.newkso.ru/wind/premium83/mono.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="Soccer (MLS) : Chicago Fire FC vs Nashville SC" tvg-logo="" group-title="Events",Soccer (MLS) : Chicago Fire FC vs Nashville SC (00:30)
+https://new.newkso.ru/wind/premium84/mono.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="Soccer (MLS) : Houston Dynamo FC vs CF Montreal" tvg-logo="" group-title="Events",Soccer (MLS) : Houston Dynamo FC vs CF Montreal (00:30)
+https://new.newkso.ru/wind/premium85/mono.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="Soccer (MLS) : Minnesota United FC vs San Diego FC" tvg-logo="" group-title="Events",Soccer (MLS) : Minnesota United FC vs San Diego FC (00:30)
+https://new.newkso.ru/wind/premium86/mono.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="Soccer (MLS) : Sporting Kansas City vs FC Dallas" tvg-logo="" group-title="Events",Soccer (MLS) : Sporting Kansas City vs FC Dallas (00:30)
+https://new.newkso.ru/wind/premium87/mono.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Soccer (MLS) : Colorado Rapids vs Orlando City SC" tvg-logo="" group-title="Events",Soccer (MLS) : Colorado Rapids vs Orlando City SC (01:30)
+https://new.newkso.ru/wind/premium88/mono.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Soccer (MLS) : Real Salt Lake vs D.C. United" tvg-logo="" group-title="Events",Soccer (MLS) : Real Salt Lake vs D.C. United (01:30)
+https://new.newkso.ru/wind/premium89/mono.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="ICC World Test Championship Final 2025: South Africa vs Australia" tvg-logo="" group-title="Events",ICC World Test Championship Final 2025: South Africa vs Australia (09:30)
 https://new.newkso.ru/wind/premium15/mono.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Ireland vs West Indies" tvg-logo="" group-title="Events",Ireland vs West Indies (14:00)
