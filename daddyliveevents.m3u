@@ -153,13 +153,13 @@ https://new.newkso.ru/wind/premium1511/mono.m3u8
 https://new.newkso.ru/wind/premium1510/mono.m3u8
 #EXTINF:-1 tvg-id="1511" tvg-name="ATP - HALLE : Lammons N./Withrow J. vs Bolelli S./Vavassori A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Halle",ATP - HALLE : Lammons N./Withrow J. vs Bolelli S./Vavassori A. (14:00)
 https://new.newkso.ru/wind/premium1511/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Badosa P. vs Navarro E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Badosa P. vs Navarro E. (09:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Badosa P. vs Navarro E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Badosa P. vs Navarro E. (09:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Paolini J. vs Jabeur O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Paolini J. vs Jabeur O. (11:00)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Paolini J. vs Jabeur O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Paolini J. vs Jabeur O. (11:00)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Samsonova L. vs Pegula J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Samsonova L. vs Pegula J. (14:00)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Samsonova L. vs Pegula J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Samsonova L. vs Pegula J. (14:00)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Sabalenka A. vs Masarova R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Sabalenka A. vs Masarova R. (15:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Sabalenka A. vs Masarova R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Sabalenka A. vs Masarova R. (15:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
 #EXTINF:-1 tvg-id="1504" tvg-name="WTA - NOTTINGHAM : Ruzic A. vs Yastremska D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Nottingham",WTA - NOTTINGHAM : Ruzic A. vs Yastremska D. (10:00)
 https://new.newkso.ru/wind/premium1504/mono.m3u8
@@ -349,9 +349,9 @@ https://new.newkso.ru/wind/premium51/mono.m3u8
 https://new.newkso.ru/wind/premium52/mono.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="MI New York vs Seattle Orcas" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",MI New York vs Seattle Orcas (01:00)
 https://new.newkso.ru/wind/premium53/mono.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="AEW Dynamite" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks",AEW Dynamite (00:00)
+#EXTINF:-1 tvg-id="54" tvg-name="AEW Dynamite" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Kutu",AEW Dynamite (00:00)
 https://new.newkso.ru/wind/premium54/mono.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="Top Rank Boxing: Brian Norman Jr. vs Jin Sasaki" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks",Top Rank Boxing: Brian Norman Jr. vs Jin Sasaki (04:00)
+#EXTINF:-1 tvg-id="55" tvg-name="Top Rank Boxing: Brian Norman Jr. vs Jin Sasaki" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Kutu",Top Rank Boxing: Brian Norman Jr. vs Jin Sasaki (04:00)
 https://new.newkso.ru/wind/premium55/mono.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Tour of Switzerland Stage 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",Tour of Switzerland Stage 4 (12:45)
 https://new.newkso.ru/wind/premium89/mono.m3u8
