@@ -185,9 +185,9 @@ https://new.newkso.ru/wind/premium1510/mono.m3u8
 https://new.newkso.ru/wind/premium1509/mono.m3u8
 #EXTINF:-1 tvg-id="1509" tvg-name="ATP - MALLORCA : Fognini F. vs Altmaier D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Mallorca",ATP - MALLORCA : Fognini F. vs Altmaier D. (12:30)
 https://new.newkso.ru/wind/premium1509/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Vondrousova M. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Vondrousova M. vs Wang Xin. (06:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Vondrousova M. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Vondrousova M. vs Wang Xin. (06:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O. (08:00)
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O. (08:00)
 https://new.newkso.ru/wind/premium1502/mono.m3u8
 #EXTINF:-1 tvg-id="1504" tvg-name="WTA - NOTTINGHAM : Kessler M. vs Yastremska D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Nottingham",WTA - NOTTINGHAM : Kessler M. vs Yastremska D. (07:30)
 https://new.newkso.ru/wind/premium1504/mono.m3u8
@@ -523,11 +523,11 @@ https://new.newkso.ru/wind/premium381/mono.m3u8
 https://new.newkso.ru/wind/premium387/mono.m3u8
 #EXTINF:-1 tvg-id="335" tvg-name="NASCAR Sprint Cup Series" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Sprint Cup Series (17:30)
 https://new.newkso.ru/wind/premium335/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Fury FC 105" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Fury FC 105 (21:30)
+#EXTINF:-1 tvg-id="17" tvg-name="Fury FC 105" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Fury FC 105 (21:30)
 https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="GCW: Take A Picture 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",GCW: Take A Picture 2025 (22:00)
+#EXTINF:-1 tvg-id="18" tvg-name="GCW: Take A Picture 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",GCW: Take A Picture 2025 (22:00)
 https://new.newkso.ru/wind/premium18/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="ICW: Pour Wan Oot 2025, Night 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",ICW: Pour Wan Oot 2025, Night 2 (22:00)
+#EXTINF:-1 tvg-id="19" tvg-name="ICW: Pour Wan Oot 2025, Night 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",ICW: Pour Wan Oot 2025, Night 2 (22:00)
 https://new.newkso.ru/wind/premium19/mono.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="2025 KPMG Women’s PGA Championship" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",2025 KPMG Women’s PGA Championship (06:30)
 https://new.newkso.ru/wind/premium20/mono.m3u8
