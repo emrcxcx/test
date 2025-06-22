@@ -211,11 +211,11 @@ https://new.newkso.ru/wind/premium1510/mono.m3u8
 https://new.newkso.ru/wind/premium1510/mono.m3u8
 #EXTINF:-1 tvg-id="1510" tvg-name="ATP - HALLE : Bublik A. vs Khachanov K." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Halle",ATP - HALLE : Bublik A. vs Khachanov K. (11:00)
 https://new.newkso.ru/wind/premium1510/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Sabalenka A. vs Vondrousova M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Sabalenka A. vs Vondrousova M. (06:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Sabalenka A. vs Vondrousova M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Sabalenka A. vs Vondrousova M. (06:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Samsonova L. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Samsonova L. vs Wang Xin. (09:00)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Samsonova L. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Samsonova L. vs Wang Xin. (09:00)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Muhammad A./Schuurs D. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Muhammad A./Schuurs D. vs Mihalikova T./Nicholls O. (10:30)
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Muhammad A./Schuurs D. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Muhammad A./Schuurs D. vs Mihalikova T./Nicholls O. (10:30)
 https://new.newkso.ru/wind/premium1502/mono.m3u8
 #EXTINF:-1 tvg-id="1504" tvg-name="WTA - NOTTINGHAM : Yastremska D. vs Linette M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Nottingham",WTA - NOTTINGHAM : Yastremska D. vs Linette M. (06:30)
 https://new.newkso.ru/wind/premium1504/mono.m3u8
@@ -683,9 +683,9 @@ https://new.newkso.ru/wind/premium1510/mono.m3u8
 https://new.newkso.ru/wind/premium1509/mono.m3u8
 #EXTINF:-1 tvg-id="1509" tvg-name="ATP - MALLORCA : Fognini F. vs Altmaier D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Mallorca",ATP - MALLORCA : Fognini F. vs Altmaier D. (12:30)
 https://new.newkso.ru/wind/premium1509/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Vondrousova M. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Vondrousova M. vs Wang Xin. (06:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - BERLIN : Vondrousova M. vs Wang Xin." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Vondrousova M. vs Wang Xin. (06:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Berlin",WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O. (08:00)
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tennis - Berlin",WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O. (08:00)
 https://new.newkso.ru/wind/premium1502/mono.m3u8
 #EXTINF:-1 tvg-id="1504" tvg-name="WTA - NOTTINGHAM : Kessler M. vs Yastremska D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Nottingham",WTA - NOTTINGHAM : Kessler M. vs Yastremska D. (07:30)
 https://new.newkso.ru/wind/premium1504/mono.m3u8
@@ -1021,29 +1021,29 @@ https://new.newkso.ru/wind/premium350/mono.m3u8
 https://new.newkso.ru/wind/premium381/mono.m3u8
 #EXTINF:-1 tvg-id="381" tvg-name="Indy NXT Series Grand Prix" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Indy NXT Series Grand Prix (17:30)
 https://new.newkso.ru/wind/premium381/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="ONE Friday Fights 113" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",ONE Friday Fights 113 (12:30)
+#EXTINF:-1 tvg-id="9" tvg-name="ONE Friday Fights 113" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",ONE Friday Fights 113 (12:30)
 https://new.newkso.ru/wind/premium9/mono.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Gladiators III: Matty McHale vs Sean Bruce" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Gladiators III: Matty McHale vs Sean Bruce (17:30)
+#EXTINF:-1 tvg-id="10" tvg-name="Gladiators III: Matty McHale vs Sean Bruce" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Gladiators III: Matty McHale vs Sean Bruce (17:30)
 https://new.newkso.ru/wind/premium10/mono.m3u8
-#EXTINF:-1 tvg-id="354" tvg-name="ARES Fighting Championship 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",ARES Fighting Championship 2025 (18:30)
+#EXTINF:-1 tvg-id="354" tvg-name="ARES Fighting Championship 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",ARES Fighting Championship 2025 (18:30)
 https://new.newkso.ru/wind/premium354/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="IWS: Praise The Violence 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",IWS: Praise The Violence 2025 (22:00)
+#EXTINF:-1 tvg-id="11" tvg-name="IWS: Praise The Violence 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",IWS: Praise The Violence 2025 (22:00)
 https://new.newkso.ru/wind/premium11/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="WWE Friday Night Smackdown" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",WWE Friday Night Smackdown (00:00)
+#EXTINF:-1 tvg-id="12" tvg-name="WWE Friday Night Smackdown" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",WWE Friday Night Smackdown (00:00)
 https://new.newkso.ru/wind/premium12/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="David Stevens vs Petr Khamukov" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",David Stevens vs Petr Khamukov (01:00)
+#EXTINF:-1 tvg-id="13" tvg-name="David Stevens vs Petr Khamukov" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",David Stevens vs Petr Khamukov (01:00)
 https://new.newkso.ru/wind/premium13/mono.m3u8
-#EXTINF:-1 tvg-id="1018" tvg-name="Mesquita vs Dinwoodie" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Mesquita vs Dinwoodie (01:00)
+#EXTINF:-1 tvg-id="1018" tvg-name="Mesquita vs Dinwoodie" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Mesquita vs Dinwoodie (01:00)
 https://new.newkso.ru/wind/premium1018/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="LFA 211" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",LFA 211 (01:00)
+#EXTINF:-1 tvg-id="14" tvg-name="LFA 211" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",LFA 211 (01:00)
 https://new.newkso.ru/wind/premium14/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="XFN 401" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",XFN 401 (01:00)
+#EXTINF:-1 tvg-id="15" tvg-name="XFN 401" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",XFN 401 (01:00)
 https://new.newkso.ru/wind/premium15/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="NXT Level Up" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",NXT Level Up (02:00)
+#EXTINF:-1 tvg-id="16" tvg-name="NXT Level Up" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",NXT Level Up (02:00)
 https://new.newkso.ru/wind/premium16/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Urijah Faber's A1 Combat 28" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Urijah Faber's A1 Combat 28 (02:00)
+#EXTINF:-1 tvg-id="17" tvg-name="Urijah Faber's A1 Combat 28" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Urijah Faber's A1 Combat 28 (02:00)
 https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="1018" tvg-name="Mielnicki Jr vs Gardzielik" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Mielnicki Jr vs Gardzielik (03:00)
+#EXTINF:-1 tvg-id="1018" tvg-name="Mielnicki Jr vs Gardzielik" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Mielnicki Jr vs Gardzielik (03:00)
 https://new.newkso.ru/wind/premium1018/mono.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="Women's PGA Champ: Rd. 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",Women's PGA Champ: Rd. 3 (15:00)
 https://new.newkso.ru/wind/premium95/mono.m3u8
@@ -1233,11 +1233,11 @@ https://new.newkso.ru/wind/premium381/mono.m3u8
 https://new.newkso.ru/wind/premium387/mono.m3u8
 #EXTINF:-1 tvg-id="335" tvg-name="NASCAR Sprint Cup Series" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Sprint Cup Series (17:30)
 https://new.newkso.ru/wind/premium335/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Fury FC 105" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",Fury FC 105 (21:30)
+#EXTINF:-1 tvg-id="17" tvg-name="Fury FC 105" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",Fury FC 105 (21:30)
 https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="GCW: Take A Picture 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",GCW: Take A Picture 2025 (22:00)
+#EXTINF:-1 tvg-id="18" tvg-name="GCW: Take A Picture 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",GCW: Take A Picture 2025 (22:00)
 https://new.newkso.ru/wind/premium18/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="ICW: Pour Wan Oot 2025, Night 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/Boks/MMA",ICW: Pour Wan Oot 2025, Night 2 (22:00)
+#EXTINF:-1 tvg-id="19" tvg-name="ICW: Pour Wan Oot 2025, Night 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/BOKS/MMA",ICW: Pour Wan Oot 2025, Night 2 (22:00)
 https://new.newkso.ru/wind/premium19/mono.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="2025 KPMG Women’s PGA Championship" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",2025 KPMG Women’s PGA Championship (06:30)
 https://new.newkso.ru/wind/premium20/mono.m3u8
