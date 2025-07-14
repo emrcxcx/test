@@ -199,7 +199,7 @@ https://new.newkso.ru/wind/premium33/mono.m3u8
 https://new.newkso.ru/wind/premium346/mono.m3u8
 #EXTINF:-1 tvg-id="598" tvg-name="GSL 2025 - Warriors vs Capitals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",GSL 2025 - Warriors vs Capitals (23:00)
 https://new.newkso.ru/wind/premium598/mono.m3u8
-#EXTINF:-1 tvg-id="1511" tvg-name="ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis Finali - ATP Wimbledon",ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final (15:00)
+#EXTINF:-1 tvg-id="1511" tvg-name="ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis Finalleri - ATP Wimbledon",ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final (15:00)
 https://new.newkso.ru/wind/premium1511/mono.m3u8
 #EXTINF:-1 tvg-id="1511" tvg-name="WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA Çiftler - Wimbledon",WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E. (12:00)
 https://new.newkso.ru/wind/premium1511/mono.m3u8
@@ -473,15 +473,15 @@ https://new.newkso.ru/wind/premium50/mono.m3u8
 https://new.newkso.ru/wind/premium151/mono.m3u8
 #EXTINF:-1 tvg-id="397" tvg-name="Nations League Women : China W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Nations League Women : China W vs USA W (00:00)
 https://new.newkso.ru/wind/premium397/mono.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="World Championship Women : Great Britain W vs South Africa W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship Women : Great Britain W vs South Africa W (04:00)
+#EXTINF:-1 tvg-id="417" tvg-name="World Championship Women : Great Britain W vs South Africa W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship Women : Great Britain W vs South Africa W (04:00)
 https://new.newkso.ru/wind/premium417/mono.m3u8
-#EXTINF:-1 tvg-id="529" tvg-name="World Championship Women : Spain W vs France W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship Women : Spain W vs France W (08:00)
+#EXTINF:-1 tvg-id="529" tvg-name="World Championship Women : Spain W vs France W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship Women : Spain W vs France W (08:00)
 https://new.newkso.ru/wind/premium529/mono.m3u8
-#EXTINF:-1 tvg-id="882" tvg-name="World Championship Women : Australia W vs Italy W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship Women : Australia W vs Italy W (09:30)
+#EXTINF:-1 tvg-id="882" tvg-name="World Championship Women : Australia W vs Italy W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship Women : Australia W vs Italy W (09:30)
 https://new.newkso.ru/wind/premium882/mono.m3u8
-#EXTINF:-1 tvg-id="882" tvg-name="World Championship Women : Netherlands W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship Women : Netherlands W vs USA W (12:45)
+#EXTINF:-1 tvg-id="882" tvg-name="World Championship Women : Netherlands W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship Women : Netherlands W vs USA W (12:45)
 https://new.newkso.ru/wind/premium882/mono.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="World Championship : South Africa vs Romania" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : South Africa vs Romania (02:30)
+#EXTINF:-1 tvg-id="417" tvg-name="World Championship : South Africa vs Romania" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : South Africa vs Romania (02:30)
 https://new.newkso.ru/wind/premium417/mono.m3u8
 #EXTINF:-1 tvg-id="767" tvg-name="Beyond the Gates Season 1, Episode 89" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Beyond the Gates Season 1, Episode 89 (18:00)
 https://new.newkso.ru/wind/premium767/mono.m3u8
@@ -603,25 +603,25 @@ https://new.newkso.ru/wind/premium346/mono.m3u8
 https://new.newkso.ru/wind/premium598/mono.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="3rd Test | Day 1 : West Indies vs Australia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",3rd Test | Day 1 : West Indies vs Australia (18:30)
 https://new.newkso.ru/wind/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Bastad",ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J. (11:30)
+#EXTINF:-1 tvg-id="1507" tvg-name="ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="ATP Tenis - Bastad",ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J. (11:30)
 https://new.newkso.ru/wind/premium1507/mono.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="ATP - BASTAD : Collignon R. vs Darderi L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Bastad",ATP - BASTAD : Collignon R. vs Darderi L. (13:00)
+#EXTINF:-1 tvg-id="1507" tvg-name="ATP - BASTAD : Collignon R. vs Darderi L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="ATP Tenis - Bastad",ATP - BASTAD : Collignon R. vs Darderi L. (13:00)
 https://new.newkso.ru/wind/premium1507/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Majchrzak K. vs Atmane T." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAD",ATP - GSTAAD : Majchrzak K. vs Atmane T. (08:30)
+#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Majchrzak K. vs Atmane T." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAAD",ATP - GSTAAD : Majchrzak K. vs Atmane T. (08:30)
 https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Buse I. vs Djere L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAD",ATP - GSTAAD : Buse I. vs Djere L. (10:00)
+#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Buse I. vs Djere L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAAD",ATP - GSTAAD : Buse I. vs Djere L. (10:00)
 https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Cazaux A. vs Basilashvili N." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAD",ATP - GSTAAD : Cazaux A. vs Basilashvili N. (13:00)
+#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Cazaux A. vs Basilashvili N." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAAD",ATP - GSTAAD : Cazaux A. vs Basilashvili N. (13:00)
 https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Stricker D. vs Herbert P." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAD",ATP - GSTAAD : Stricker D. vs Herbert P. (15:30)
+#EXTINF:-1 tvg-id="1508" tvg-name="ATP - GSTAAD : Stricker D. vs Herbert P." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - GSTAAD",ATP - GSTAAD : Stricker D. vs Herbert P. (15:30)
 https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="ATP - LOS CABOS : Grandstand" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Los Cabos",ATP - LOS CABOS : Grandstand (01:00)
+#EXTINF:-1 tvg-id="1508" tvg-name="ATP - LOS CABOS : Grandstand" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="ATP Tenis - Los Cabos",ATP - LOS CABOS : Grandstand (01:00)
 https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Wuerth T. vs Parry D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Hamburg:",WTA - HAMBURG : Wuerth T. vs Parry D. (11:30)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Wuerth T. vs Parry D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Hamburg:",WTA - HAMBURG : Wuerth T. vs Parry D. (11:30)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Chirico L. vs Sherif M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Hamburg:",WTA - HAMBURG : Chirico L. vs Sherif M. (13:00)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Chirico L. vs Sherif M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Hamburg:",WTA - HAMBURG : Chirico L. vs Sherif M. (13:00)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Uchijima M. vs Schunk N." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Hamburg:",WTA - HAMBURG : Uchijima M. vs Schunk N. (15:00)
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - HAMBURG : Uchijima M. vs Schunk N." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Hamburg:",WTA - HAMBURG : Uchijima M. vs Schunk N. (15:00)
 https://new.newkso.ru/wind/premium1501/mono.m3u8
 #EXTINF:-1 tvg-id="1504" tvg-name="WTA - IASI : Bulgaru M. vs Teichmann J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Iasi:",WTA - IASI : Bulgaru M. vs Teichmann J. (12:30)
 https://new.newkso.ru/wind/premium1504/mono.m3u8
@@ -705,15 +705,15 @@ https://new.newkso.ru/wind/premium111/mono.m3u8
 https://new.newkso.ru/wind/premium589/mono.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="Premier Padel, First Round Travel P1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kabak",Premier Padel, First Round Travel P1 (17:00)
 https://new.newkso.ru/wind/premium291/mono.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="World Championship : Japan vs Hungary" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : Japan vs Hungary (05:30)
+#EXTINF:-1 tvg-id="265" tvg-name="World Championship : Japan vs Hungary" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : Japan vs Hungary (05:30)
 https://new.newkso.ru/wind/premium265/mono.m3u8
-#EXTINF:-1 tvg-id="882" tvg-name="World Championship : Australia vs Spain" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : Australia vs Spain (08:00)
+#EXTINF:-1 tvg-id="882" tvg-name="World Championship : Australia vs Spain" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : Australia vs Spain (08:00)
 https://new.newkso.ru/wind/premium882/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="World Championship : Croatia vs Montenegro" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : Croatia vs Montenegro (09:30)
+#EXTINF:-1 tvg-id="2" tvg-name="World Championship : Croatia vs Montenegro" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : Croatia vs Montenegro (09:30)
 https://new.newkso.ru/wind/premium2/mono.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="World Championship : Singapore vs Canada" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : Singapore vs Canada (11:00)
+#EXTINF:-1 tvg-id="265" tvg-name="World Championship : Singapore vs Canada" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : Singapore vs Canada (11:00)
 https://new.newkso.ru/wind/premium265/mono.m3u8
-#EXTINF:-1 tvg-id="882" tvg-name="World Championship : Italy vs Serbia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",World Championship : Italy vs Serbia (12:45)
+#EXTINF:-1 tvg-id="882" tvg-name="World Championship : Italy vs Serbia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",World Championship : Italy vs Serbia (12:45)
 https://new.newkso.ru/wind/premium882/mono.m3u8
 #EXTINF:-1 tvg-id="720" tvg-name="World Aquatics Championships Open Water Swimming - 10 km Women" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Su Sporları",World Aquatics Championships Open Water Swimming - 10 km Women (00:00)
 https://new.newkso.ru/wind/premium720/mono.m3u8
@@ -923,11 +923,11 @@ https://new.newkso.ru/wind/premium43/mono.m3u8
 https://new.newkso.ru/wind/premium44/mono.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="China W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",China W vs USA W (00:00)
 https://new.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="Spain W vs France W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",Spain W vs France W (08:00)
+#EXTINF:-1 tvg-id="346" tvg-name="Spain W vs France W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",Spain W vs France W (08:00)
 https://new.newkso.ru/wind/premium346/mono.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="Australia W vs Italy W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",Australia W vs Italy W (09:30)
+#EXTINF:-1 tvg-id="346" tvg-name="Australia W vs Italy W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",Australia W vs Italy W (09:30)
 https://new.newkso.ru/wind/premium346/mono.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="Netherlands W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutopu",Netherlands W vs USA W (12:45)
+#EXTINF:-1 tvg-id="346" tvg-name="Netherlands W vs USA W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Sutop",Netherlands W vs USA W (12:45)
 https://new.newkso.ru/wind/premium346/mono.m3u8
 #EXTINF:-1 tvg-id="410" tvg-name="Soccer : Csikszereda vs Dinamo Bucureşti" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Csikszereda vs Dinamo Bucureşti (18:30)
 https://new.newkso.ru/wind/premium410/mono.m3u8
