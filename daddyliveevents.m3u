@@ -1,532 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="76" tvg-name="2025 Weekly Racing at Stafford Speedway" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 Weekly Racing at Stafford Speedway (21:30)
-https://new.newkso.ru/wind/premium76/mono.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="Xtreme Outlaw Midgets Path Valley" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",Xtreme Outlaw Midgets Path Valley (22:15)
-https://new.newkso.ru/wind/premium77/mono.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="World of Outlaws Knoxville" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",World of Outlaws Knoxville (22:15)
-https://new.newkso.ru/wind/premium86/mono.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="2025 American Racer QC Series at Autodrome Granby" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 American Racer QC Series at Autodrome Granby (22:20)
-https://new.newkso.ru/wind/premium105/mono.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="2025 Lucas Oil North/South 100 at Florence Speedway" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 Lucas Oil North/South 100 at Florence Speedway (22:45)
-https://new.newkso.ru/wind/premium106/mono.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="2025 Weekly Racing at Utica-Rome Speedway" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 Weekly Racing at Utica-Rome Speedway (22:45)
-https://new.newkso.ru/wind/premium107/mono.m3u8
-#EXTINF:-1 tvg-id="108" tvg-name="2025 American Flat Track Jackpine Gypsies Super TT" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 American Flat Track Jackpine Gypsies Super TT (23:00)
-https://new.newkso.ru/wind/premium108/mono.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="2025 MARS Late Models at Sycamore Speedway" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 MARS Late Models at Sycamore Speedway (23:30)
-https://new.newkso.ru/wind/premium109/mono.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="2025 IMCA Weekly Racing at Marshalltown Speedway" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",2025 IMCA Weekly Racing at Marshalltown Speedway (23:30)
-https://new.newkso.ru/wind/premium110/mono.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="XFN 403" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="PPV Olayları",XFN 403 (01:00)
-https://new.newkso.ru/wind/premium151/mono.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="Beyond the Gates Season 1, Episode 108" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Beyond the Gates Season 1, Episode 108 (18:00)
-https://new.newkso.ru/wind/premium767/mono.m3u8
-#EXTINF:-1 tvg-id="753" tvg-name="FanDuel Racing Live" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",FanDuel Racing Live (19:00)
-https://new.newkso.ru/wind/premium753/mono.m3u8
-#EXTINF:-1 tvg-id="923" tvg-name="FanDuel Racing Live" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",FanDuel Racing Live (21:00)
-https://new.newkso.ru/wind/premium923/mono.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="Deadliest Catch Season 21, Episode 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Deadliest Catch Season 21, Episode 1 (22:00)
-https://new.newkso.ru/wind/premium313/mono.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="World Series of Poker Episode 16" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",World Series of Poker Episode 16 (23:00)
-https://new.newkso.ru/wind/premium308/mono.m3u8
-#EXTINF:-1 tvg-id="330" tvg-name="The Loud House Season 10, Episode 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",The Loud House Season 10, Episode 1 (23:00)
-https://new.newkso.ru/wind/premium330/mono.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="Top Chef VIP Season 4, Episode 16" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Top Chef VIP Season 4, Episode 16 (23:00)
-https://new.newkso.ru/wind/premium131/mono.m3u8
-#EXTINF:-1 tvg-id="753" tvg-name="Triton Poker Series New" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Triton Poker Series New (23:00)
-https://new.newkso.ru/wind/premium753/mono.m3u8
-#EXTINF:-1 tvg-id="330" tvg-name="Wylde Pak Season 1, Episode 9" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Wylde Pak Season 1, Episode 9 (23:30)
-https://new.newkso.ru/wind/premium330/mono.m3u8
-#EXTINF:-1 tvg-id="397" tvg-name="B1G Football Training Camp Indiana Live" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",B1G Football Training Camp Indiana Live (00:00)
-https://new.newkso.ru/wind/premium397/mono.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="Ready to Love Season 10, Episode 8" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Ready to Love Season 10, Episode 8 (00:00)
-https://new.newkso.ru/wind/premium331/mono.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="Deadliest Catch Season 21, Episode 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Deadliest Catch Season 21, Episode 2 (00:00)
-https://new.newkso.ru/wind/premium313/mono.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="Secrets to Kill For (2025) Premiere" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Secrets to Kill For (2025) Premiere (00:00)
-https://new.newkso.ru/wind/premium389/mono.m3u8
-#EXTINF:-1 tvg-id="293" tvg-name="On Patrol: First Shift Season 4, Episode 9" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",On Patrol: First Shift Season 4, Episode 9 (00:00)
-https://new.newkso.ru/wind/premium293/mono.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="A.mar Season 1, Episode 55" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",A.mar Season 1, Episode 55 (00:00)
-https://new.newkso.ru/wind/premium132/mono.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="Big Brother Season 27, Episode 15" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Big Brother Season 27, Episode 15 (00:00)
-https://new.newkso.ru/wind/premium767/mono.m3u8
-#EXTINF:-1 tvg-id="768" tvg-name="The Fixer Season 1, Episode 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",The Fixer Season 1, Episode 7 (00:00)
-https://new.newkso.ru/wind/premium768/mono.m3u8
-#EXTINF:-1 tvg-id="655" tvg-name="Love After Lockup Season 6, Episode 12" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Love After Lockup Season 6, Episode 12 (00:00)
-https://new.newkso.ru/wind/premium655/mono.m3u8
-#EXTINF:-1 tvg-id="312" tvg-name="Electric Bloom Season 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Electric Bloom Season 1 (00:00)
-https://new.newkso.ru/wind/premium312/mono.m3u8
-#EXTINF:-1 tvg-id="335" tvg-name="Outlander: Blood of My Blood Season 1, Episode 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Outlander: Blood of My Blood Season 1, Episode 1 (00:00)
-https://new.newkso.ru/wind/premium335/mono.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="Lakefront Bargain Hunt: Renovation Season 5, Episode 8" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Lakefront Bargain Hunt: Renovation Season 5, Episode 8 (01:00)
-https://new.newkso.ru/wind/premium299/mono.m3u8
-#EXTINF:-1 tvg-id="300" tvg-name="Totally Funny Animals Season 1, Episode 30" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Totally Funny Animals Season 1, Episode 30 (01:00)
-https://new.newkso.ru/wind/premium300/mono.m3u8
-#EXTINF:-1 tvg-id="210" tvg-name="The Great American Recipe Season 4, Episode 5" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",The Great American Recipe Season 4, Episode 5 (01:00)
-https://new.newkso.ru/wind/premium210/mono.m3u8
-#EXTINF:-1 tvg-id="382" tvg-name="My Lottery Dream Home Season 18, Episode 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",My Lottery Dream Home Season 18, Episode 4 (01:00)
-https://new.newkso.ru/wind/premium382/mono.m3u8
-#EXTINF:-1 tvg-id="328" tvg-name="Border Security: Australia's Front Line Season 16, Episode 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Border Security: Australia's Front Line Season 16, Episode 7 (01:00)
-https://new.newkso.ru/wind/premium328/mono.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="bering Sea Gold Season 19, Episode 1 • Premiere" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",bering Sea Gold Season 19, Episode 1 • Premiere (01:00)
-https://new.newkso.ru/wind/premium313/mono.m3u8
-#EXTINF:-1 tvg-id="300" tvg-name="Totally Funny Kids Season 1, Episode 30" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Totally Funny Kids Season 1, Episode 30 (01:30)
-https://new.newkso.ru/wind/premium300/mono.m3u8
-#EXTINF:-1 tvg-id="382" tvg-name="House Hunters Season 263, Episode 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",House Hunters Season 263, Episode 7 (02:00)
-https://new.newkso.ru/wind/premium382/mono.m3u8
-#EXTINF:-1 tvg-id="343" tvg-name="Resident Alien Season 4, Episode 10 • Finale" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Resident Alien Season 4, Episode 10 • Finale (02:00)
-https://new.newkso.ru/wind/premium343/mono.m3u8
-#EXTINF:-1 tvg-id="338" tvg-name="Peacemaker Season 1, Episode 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Peacemaker Season 1, Episode 7 (02:00)
-https://new.newkso.ru/wind/premium338/mono.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="The Proof Is Out There Season 5, Episode 8" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",The Proof Is Out There Season 5, Episode 8 (02:00)
-https://new.newkso.ru/wind/premium322/mono.m3u8
-#EXTINF:-1 tvg-id="321" tvg-name="Real Time With Bill Maher Season 23, Episode 22" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Real Time With Bill Maher Season 23, Episode 22 (02:00)
-https://new.newkso.ru/wind/premium321/mono.m3u8
-#EXTINF:-1 tvg-id="335" tvg-name="BMF Point of No Return Season 4, Episode 9" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",BMF Point of No Return Season 4, Episode 9 (02:30)
-https://new.newkso.ru/wind/premium335/mono.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Ireland Republic - Premier Division : Derry City vs Cork City" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - Premier Division : Derry City vs Cork City (18:45)
-https://new.newkso.ru/wind/premium76/mono.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="Ireland Republic - Premier Division : Drogheda United vs Waterford United" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - Premier Division : Drogheda United vs Waterford United (18:45)
-https://new.newkso.ru/wind/premium77/mono.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="Ireland Republic - First Division : Bray Wanderers vs Cobh Ramblers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - First Division : Bray Wanderers vs Cobh Ramblers (18:45)
-https://new.newkso.ru/wind/premium86/mono.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Ireland Republic - First Division : Dundalk vs Athlone Town" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - First Division : Dundalk vs Athlone Town (18:45)
-https://new.newkso.ru/wind/premium105/mono.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="Ireland Republic - First Division : Kerry vs Finn Harps" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - First Division : Kerry vs Finn Harps (18:45)
-https://new.newkso.ru/wind/premium106/mono.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="Ireland Republic - First Division : UCD vs Wexford" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ireland Republic - First Division : UCD vs Wexford (18:45)
-https://new.newkso.ru/wind/premium107/mono.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="Korea Republic - K League 1 : Seoul vs Daegu" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Korea Republic - K League 1 : Seoul vs Daegu (10:30)
-https://new.newkso.ru/wind/premium124/mono.m3u8
-#EXTINF:-1 tvg-id="9000" tvg-name="Ukrainian Premier League : SK Poltava vs Veres Rivne" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ukrainian Premier League : SK Poltava vs Veres Rivne (12:30)
-https://new.newkso.ru/wind/premium9000/mono.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="African Nations Championship : Algeria vs South Africa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",African Nations Championship : Algeria vs South Africa (14:00)
-https://new.newkso.ru/wind/premium425/mono.m3u8
-#EXTINF:-1 tvg-id="622" tvg-name="Club Friendly : Olympiakos Piraeus vs Al Taawon" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Club Friendly : Olympiakos Piraeus vs Al Taawon (14:00)
-https://new.newkso.ru/wind/premium622/mono.m3u8
-#EXTINF:-1 tvg-id="400" tvg-name="Romanian Liga 2 : Satu Mare vs Bihor Oradea" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Romanian Liga 2 : Satu Mare vs Bihor Oradea (14:00)
-https://new.newkso.ru/wind/premium400/mono.m3u8
-#EXTINF:-1 tvg-id="9000" tvg-name="Ukrainian Premier League : Rukh Vynnyky vs Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Ukrainian Premier League : Rukh Vynnyky vs Dynamo Kyiv (15:00)
-https://new.newkso.ru/wind/premium9000/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Jordan - Jordan League : Shabab Al Ordon vs Al Ramtha" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Jordan - Jordan League : Shabab Al Ordon vs Al Ramtha (15:00)
-https://new.newkso.ru/wind/premium1/mono.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Belarus Premier League : Molodechno-2013 vs Slavia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Belarus Premier League : Molodechno-2013 vs Slavia (15:00)
-https://new.newkso.ru/wind/premium20/mono.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Bulgaria - Parva Liga : Dobrudzha 1919 vs CSKA 1948" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Bulgaria - Parva Liga : Dobrudzha 1919 vs CSKA 1948 (16:00)
-https://new.newkso.ru/wind/premium465/mono.m3u8
-#EXTINF:-1 tvg-id="1033" tvg-name="Czech Republic - 2. liga : Artis vs Zbrojovka Brno" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Czech Republic - 2. liga : Artis vs Zbrojovka Brno (16:00)
-https://new.newkso.ru/wind/premium1033/mono.m3u8
-#EXTINF:-1 tvg-id="808" tvg-name="Denmark - Super Liga : København vs AGF" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Denmark - Super Liga : København vs AGF (16:00)
-https://new.newkso.ru/wind/premium808/mono.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="Poland - Ekstraklasa : Korona Kielce vs Radomiak Radom" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Poland - Ekstraklasa : Korona Kielce vs Radomiak Radom (16:00)
-https://new.newkso.ru/wind/premium259/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Sweden - Damallsvenskan : Rosengård vs Malmö" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Sweden - Damallsvenskan : Rosengård vs Malmö (16:00)
-https://new.newkso.ru/wind/premium3/mono.m3u8
-#EXTINF:-1 tvg-id="400" tvg-name="Romanian Liga 2 : Steaua Bucharest vs Concordia Chiajna" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Romanian Liga 2 : Steaua Bucharest vs Concordia Chiajna (16:00)
-https://new.newkso.ru/wind/premium400/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Estonia - Meistriliiga : Flora vs Levadia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Estonia - Meistriliiga : Flora vs Levadia (16:30)
-https://new.newkso.ru/wind/premium4/mono.m3u8
-#EXTINF:-1 tvg-id="558" tvg-name="Germany - Bundesliga 2 : Simulcast" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Germany - Bundesliga 2 : Simulcast (16:30)
-https://new.newkso.ru/wind/premium558/mono.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Germany - Bundesliga 2 : Preußen Münster vs Paderborn" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Germany - Bundesliga 2 : Preußen Münster vs Paderborn (16:30)
-https://new.newkso.ru/wind/premium5/mono.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="Germany - Bundesliga 2 : Nürnberg vs Darmstadt 98" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Germany - Bundesliga 2 : Nürnberg vs Darmstadt 98 (16:30)
-https://new.newkso.ru/wind/premium6/mono.m3u8
-#EXTINF:-1 tvg-id="573" tvg-name="Russia - Premier League : Dynamo Makhachkala vs Akron" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Russia - Premier League : Dynamo Makhachkala vs Akron (17:00)
-https://new.newkso.ru/wind/premium573/mono.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="World Club Friendly : AEL Limassol vs Paralimni" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",World Club Friendly : AEL Limassol vs Paralimni (17:00)
-https://new.newkso.ru/wind/premium911/mono.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Germany - 3. Liga : Schweinfurt vs Energie Cottbus" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Germany - 3. Liga : Schweinfurt vs Energie Cottbus (17:00)
-https://new.newkso.ru/wind/premium7/mono.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="Denmark 1st Division : Hobro vs B 93" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Denmark 1st Division : Hobro vs B 93 (17:00)
-https://new.newkso.ru/wind/premium55/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Club Friendly : Levante vs CD Castellon" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Club Friendly : Levante vs CD Castellon (17:00)
-https://new.newkso.ru/wind/premium8/mono.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="African Nations Championship : Guinea vs Uganda" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",African Nations Championship : Guinea vs Uganda (17:00)
-https://new.newkso.ru/wind/premium425/mono.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Switzerland - Swiss Challenge League : Wil vs Étoile Carouge" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Switzerland - Swiss Challenge League : Wil vs Étoile Carouge (17:30)
-https://new.newkso.ru/wind/premium22/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Jordan - Jordan League : Al Faisaly vs Al Salt" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Jordan - Jordan League : Al Faisaly vs Al Salt (17:45)
-https://new.newkso.ru/wind/premium1/mono.m3u8
-#EXTINF:-1 tvg-id="379" tvg-name="Netherlands - Eredivisie : Fortuna Sittard vs Go Ahead Eagles" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands - Eredivisie : Fortuna Sittard vs Go Ahead Eagles (18:00)
-https://new.newkso.ru/wind/premium379/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Netherlands - Eerste Divisie : Den Bosch vs Ajax II" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands - Eerste Divisie : Den Bosch vs Ajax II (18:00)
-https://new.newkso.ru/wind/premium9/mono.m3u8
-#EXTINF:-1 tvg-id="888" tvg-name="Netherlands - Eerste Divisie : De Graafschap vs VVV" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands - Eerste Divisie : De Graafschap vs VVV (18:00)
-https://new.newkso.ru/wind/premium888/mono.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="Hungary - NB1 : Kazincbarcika vs Debrecen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Hungary - NB1 : Kazincbarcika vs Debrecen (18:00)
-https://new.newkso.ru/wind/premium265/mono.m3u8
-#EXTINF:-1 tvg-id="355" tvg-name="Club Friendly : Chelsea vs Bayer Leverkusen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Club Friendly : Chelsea vs Bayer Leverkusen (18:00)
-https://new.newkso.ru/wind/premium355/mono.m3u8
-#EXTINF:-1 tvg-id="877" tvg-name="Club Friendly : Monaco vs Internazionale" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Club Friendly : Monaco vs Internazionale (18:00)
-https://new.newkso.ru/wind/premium877/mono.m3u8
-#EXTINF:-1 tvg-id="809" tvg-name="Denmark - Super Liga : Viborg vs SønderjyskE" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Denmark - Super Liga : Viborg vs SønderjyskE (18:00)
-https://new.newkso.ru/wind/premium809/mono.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Netherlands Eerste Divisie : Dordrecht vs Cambuur" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands Eerste Divisie : Dordrecht vs Cambuur (18:00)
-https://new.newkso.ru/wind/premium23/mono.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="Netherlands Eerste Divisie : Eindhoven vs Utrecht II" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands Eerste Divisie : Eindhoven vs Utrecht II (18:00)
-https://new.newkso.ru/wind/premium24/mono.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="Netherlands Eerste Divisie : Oss vs MVV" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Netherlands Eerste Divisie : Oss vs MVV (18:00)
-https://new.newkso.ru/wind/premium25/mono.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="Slovenia Druga Liga : Nafta vs Slovan Ljubljana" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Slovenia Druga Liga : Nafta vs Slovan Ljubljana (18:00)
-https://new.newkso.ru/wind/premium26/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Switzerland - Swiss Challenge League : Rapperswil-Jona vs Yverdon Sport" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Switzerland - Swiss Challenge League : Rapperswil-Jona vs Yverdon Sport (18:15)
-https://new.newkso.ru/wind/premium11/mono.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Bulgaria - Parva Liga : Montana vs Botev Vratsa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Bulgaria - Parva Liga : Montana vs Botev Vratsa (18:15)
-https://new.newkso.ru/wind/premium465/mono.m3u8
-#EXTINF:-1 tvg-id="889" tvg-name="Turkey - 1. Lig : Ümranıyespor vs Manisa BBSK" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Turkey - 1. Lig : Ümranıyespor vs Manisa BBSK (18:30)
-https://new.newkso.ru/wind/premium889/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Club Friendly : Newcastle United vs Espanyol" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Club Friendly : Newcastle United vs Espanyol (18:30)
-https://new.newkso.ru/wind/premium12/mono.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="Super Lig : Gaziantep FK vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Super Lig : Gaziantep FK vs Galatasaray (18:30)
-https://new.newkso.ru/wind/premium62/mono.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="Poland - Ekstraklasa : Górnik Zabrze vs Nieciecza" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Poland - Ekstraklasa : Górnik Zabrze vs Nieciecza (18:30)
-https://new.newkso.ru/wind/premium259/mono.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="Poland - I Liga : Śląsk Wrocław vs Miedź Legnica" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Poland - I Liga : Śląsk Wrocław vs Miedź Legnica (18:30)
-https://new.newkso.ru/wind/premium128/mono.m3u8
-#EXTINF:-1 tvg-id="400" tvg-name="Romania - Liga I : Metaloglobus vs Dinamo Bucureşti" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Romania - Liga I : Metaloglobus vs Dinamo Bucureşti (18:30)
-https://new.newkso.ru/wind/premium400/mono.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="England - Championship : Birmingham City vs Ipswich Town" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",England - Championship : Birmingham City vs Ipswich Town (19:00)
-https://new.newkso.ru/wind/premium35/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Scottish Championship : Ross County vs St. Johnstone" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Scottish Championship : Ross County vs St. Johnstone (18:45)
-https://new.newkso.ru/wind/premium3/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Belgium - Pro League : Sint-Truiden vs Dender" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Belgium - Pro League : Sint-Truiden vs Dender (18:45)
-https://new.newkso.ru/wind/premium15/mono.m3u8
-#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Palestino vs Deportes Iquique" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Chile - Primera Division : Palestino vs Deportes Iquique (19:00)
-https://new.newkso.ru/wind/premium642/mono.m3u8
-#EXTINF:-1 tvg-id="779" tvg-name="Croatia - 1. HNL : Dinamo Zagreb vs Vukovar" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Croatia - 1. HNL : Dinamo Zagreb vs Vukovar (19:00)
-https://new.newkso.ru/wind/premium779/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Bosnia-Herzegovina Premier Liga : Radnik Bijeljina vs Posusje" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Bosnia-Herzegovina Premier Liga : Radnik Bijeljina vs Posusje (19:00)
-https://new.newkso.ru/wind/premium16/mono.m3u8
-#EXTINF:-1 tvg-id="540" tvg-name="Portuguese Liga 3 : Sporting Braga II vs Paredes" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Portuguese Liga 3 : Sporting Braga II vs Paredes (19:00)
-https://new.newkso.ru/wind/premium540/mono.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="Portugal - Primeira Liga : Casa Pia vs Sporting CP" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Portugal - Primeira Liga : Casa Pia vs Sporting CP (19:15)
-https://new.newkso.ru/wind/premium49/mono.m3u8
-#EXTINF:-1 tvg-id="392" tvg-name="Colombia - Primera A : Atlético Nacional vs Alianza" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Colombia - Primera A : Atlético Nacional vs Alianza (20:30)
-https://new.newkso.ru/wind/premium392/mono.m3u8
-#EXTINF:-1 tvg-id="391" tvg-name="Uruguay - Primera Division : Torque vs Boston River" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Uruguay - Primera Division : Torque vs Boston River (22:00)
-https://new.newkso.ru/wind/premium391/mono.m3u8
-#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Tigre vs Huracán" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Argentina - Primera División : Tigre vs Huracán (22:00)
-https://new.newkso.ru/wind/premium388/mono.m3u8
-#EXTINF:-1 tvg-id="643" tvg-name="Liga MX Femenil : Guadalajara vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Liga MX Femenil : Guadalajara vs Cruz Azul (23:00)
-https://new.newkso.ru/wind/premium643/mono.m3u8
-#EXTINF:-1 tvg-id="391" tvg-name="Uruguay - Primera Division : Defensor Sporting vs River Plate" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Uruguay - Primera Division : Defensor Sporting vs River Plate (23:00)
-https://new.newkso.ru/wind/premium391/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="Soccer League1 Canada Women's : Altitude FC vs Simcoe County Rovers FC" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer League1 Canada Women's : Altitude FC vs Simcoe County Rovers FC (23:30)
-https://new.newkso.ru/wind/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="910" tvg-name="NWSL : Houston Dash vs North Carolina Courage" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",NWSL : Houston Dash vs North Carolina Courage (00:00)
-https://new.newkso.ru/wind/premium910/mono.m3u8
-#EXTINF:-1 tvg-id="387" tvg-name="Argentina - Primera División : Newell's Old Boys vs Central Córdoba SdE" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Argentina - Primera División : Newell's Old Boys vs Central Córdoba SdE (00:00)
-https://new.newkso.ru/wind/premium387/mono.m3u8
-#EXTINF:-1 tvg-id="746" tvg-name="Argentina Primera : Ferrocarril Midland vs Sportivo Italiano" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Argentina Primera : Ferrocarril Midland vs Sportivo Italiano (00:10)
-https://new.newkso.ru/wind/premium746/mono.m3u8
-#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Lanús vs Talleres Córdoba" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Argentina - Primera División : Lanús vs Talleres Córdoba (00:15)
-https://new.newkso.ru/wind/premium388/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Brazil Serie B : Coritiba vs Chapecoense" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Brazil Serie B : Coritiba vs Chapecoense (00:35)
-https://new.newkso.ru/wind/premium16/mono.m3u8
-#EXTINF:-1 tvg-id="392" tvg-name="Colombia - Primera A : Millonarios vs Deportivo Cali" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Colombia - Primera A : Millonarios vs Deportivo Cali (00:30)
-https://new.newkso.ru/wind/premium392/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Mexico - Liga de Expansión MX : Venados vs Tapatío" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Mexico - Liga de Expansión MX : Venados vs Tapatío (01:00)
-https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="NWSL : Utah Royals vs Kansas City Current" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",NWSL : Utah Royals vs Kansas City Current (02:00)
-https://new.newkso.ru/wind/premium18/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="Soccer League1 Canada Women's : Calgary Blizzard vs CS Mont Royal Outremont" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer League1 Canada Women's : Calgary Blizzard vs CS Mont Royal Outremont (02:30)
-https://new.newkso.ru/wind/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Liga MX : Tigres UANL vs Puebla" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Liga MX : Tigres UANL vs Puebla (03:00)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Mexico - Liga de Expansión MX : CA La Paz vs Correcaminos UAT" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Mexico - Liga de Expansión MX : CA La Paz vs Correcaminos UAT (03:00)
-https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="2nd Test | Day 2 : Zimbabwe vs New Zealand" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",2nd Test | Day 2 : Zimbabwe vs New Zealand (07:30)
-https://new.newkso.ru/wind/premium346/mono.m3u8
-#EXTINF:-1 tvg-id="598" tvg-name="The Hundred Women : Birmingham Phoenix W vs Trent Rockets W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",The Hundred Women : Birmingham Phoenix W vs Trent Rockets W (14:00)
-https://new.newkso.ru/wind/premium598/mono.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="The Hundred : Birmingham Phoenix vs Trent Rockets" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",The Hundred : Birmingham Phoenix vs Trent Rockets (17:30)
-https://new.newkso.ru/wind/premium346/mono.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="1st ODI : West Indies vs Pakistan" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",1st ODI : West Indies vs Pakistan (18:00)
-https://new.newkso.ru/wind/premium31/mono.m3u8
-#EXTINF:-1 tvg-id="1511" tvg-name="ATP-CINCINNATI : Boyer T. vs Holt B." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Boyer T. vs Holt B. (15:00)
-https://new.newkso.ru/wind/premium1511/mono.m3u8
-#EXTINF:-1 tvg-id="1516" tvg-name="ATP-CINCINNATI : Nardi L. vs Tirante T.A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Nardi L. vs Tirante T.A. (15:00)
-https://new.newkso.ru/wind/premium1516/mono.m3u8
-#EXTINF:-1 tvg-id="1510" tvg-name="ATP-CINCINNATI : Ugo Carabelli C. vs Nishikori K" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Ugo Carabelli C. vs Nishikori K (15:00)
-https://new.newkso.ru/wind/premium1510/mono.m3u8
-#EXTINF:-1 tvg-id="1509" tvg-name="ATP-CINCINNATI : Coric B. vs Nava E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Coric B. vs Nava E. (16:30)
-https://new.newkso.ru/wind/premium1509/mono.m3u8
-#EXTINF:-1 tvg-id="1511" tvg-name="ATP-CINCINNATI : Giron M. vs Blockx A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Giron M. vs Blockx A. (16:30)
-https://new.newkso.ru/wind/premium1511/mono.m3u8
-#EXTINF:-1 tvg-id="1513" tvg-name="ATP-CINCINNATI : Kecmanovic N. vs Quinn E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Kecmanovic N. vs Quinn E. (16:30)
-https://new.newkso.ru/wind/premium1513/mono.m3u8
-#EXTINF:-1 tvg-id="1509" tvg-name="ATP-CINCINNATI : Brooksby 1. vs Muller A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Brooksby 1. vs Muller A. (17:00)
-https://new.newkso.ru/wind/premium1509/mono.m3u8
-#EXTINF:-1 tvg-id="1514" tvg-name="ATP-CINCINNATI : Comesana E vs Munar J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Comesana E vs Munar J. (18:00)
-https://new.newkso.ru/wind/premium1514/mono.m3u8
-#EXTINF:-1 tvg-id="1512" tvg-name="ATP-CINCINNATI : Dellien H. vs Opelika R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Dellien H. vs Opelika R. (18:00)
-https://new.newkso.ru/wind/premium1512/mono.m3u8
-#EXTINF:-1 tvg-id="1513" tvg-name="ATP-CINCINNATI : Medjedovic H. vs Kovacevic A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Medjedovic H. vs Kovacevic A. (18:00)
-https://new.newkso.ru/wind/premium1513/mono.m3u8
-#EXTINF:-1 tvg-id="1517" tvg-name="ATP-CINCINNATI : Walton A vs Navone M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Walton A vs Navone M. (18:00)
-https://new.newkso.ru/wind/premium1517/mono.m3u8
-#EXTINF:-1 tvg-id="1514" tvg-name="ATP-CINCINNATI : Altmaier D. vs Bautista Agut R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Altmaier D. vs Bautista Agut R. (19:30)
-https://new.newkso.ru/wind/premium1514/mono.m3u8
-#EXTINF:-1 tvg-id="1517" tvg-name="ATP-CINCINNATI : Bellucci M. vs Dzumhur D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Bellucci M. vs Dzumhur D. (19:30)
-https://new.newkso.ru/wind/premium1517/mono.m3u8
-#EXTINF:-1 tvg-id="1512" tvg-name="ATP-CINCINNATI : Landaluce M. vs Kypson P." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Landaluce M. vs Kypson P. (19:30)
-https://new.newkso.ru/wind/premium1512/mono.m3u8
-#EXTINF:-1 tvg-id="1512" tvg-name="ATP-CINCINNATI : Ofner S. vs Royer V." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Ofner S. vs Royer V. (21:00)
-https://new.newkso.ru/wind/premium1512/mono.m3u8
-#EXTINF:-1 tvg-id="1510" tvg-name="ATP-CINCINNATI : Tien L. vs Riedi L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Tien L. vs Riedi L. (23:00)
-https://new.newkso.ru/wind/premium1510/mono.m3u8
-#EXTINF:-1 tvg-id="1509" tvg-name="ATP-CINCINNATI : Vukic. A. vs Basavareddy N." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP-Cincinnati",ATP-CINCINNATI : Vukic. A. vs Basavareddy N. (00:30)
-https://new.newkso.ru/wind/premium1509/mono.m3u8
-#EXTINF:-1 tvg-id="1504" tvg-name="WTA - CINCINNATI : Dolehide C. vs Sramhova R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Dolehide C. vs Sramhova R. (15:00)
-https://new.newkso.ru/wind/premium1504/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - CINCINNATI : Kartal S. vs Garcia C." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Kartal S. vs Garcia C. (15:00)
-https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="WTA - CINCINNATI : Starodubtseva Y, vs Jeanjean L" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Starodubtseva Y, vs Jeanjean L (15:00)
-https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1506" tvg-name="WTA - CINCINNATI : Sun L vs Ruzic A" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Sun L vs Ruzic A (15:00)
-https://new.newkso.ru/wind/premium1506/mono.m3u8
-#EXTINF:-1 tvg-id="1505" tvg-name="WTA - CINCINNATI : Zhu L. vs Bronzetti L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Zhu L. vs Bronzetti L. (15:00)
-https://new.newkso.ru/wind/premium1505/mono.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="WTA - CINCINNATI : Blinkova A. vs Birrell K." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Blinkova A. vs Birrell K. (16:30)
-https://new.newkso.ru/wind/premium1507/mono.m3u8
-#EXTINF:-1 tvg-id="1506" tvg-name="WTA - CINCINNATI : Bondar A. vs Tomijanovic A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Bondar A. vs Tomijanovic A. (16:30)
-https://new.newkso.ru/wind/premium1506/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : Collins D. vs Townsend T." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Collins D. vs Townsend T. (16:30)
-https://new.newkso.ru/wind/premium1502/mono.m3u8
-#EXTINF:-1 tvg-id="1504" tvg-name="WTA - CINCINNATI : Gracheva V. vs Volynets K." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Gracheva V. vs Volynets K. (16:30)
-https://new.newkso.ru/wind/premium1504/mono.m3u8
-#EXTINF:-1 tvg-id="1508" tvg-name="WTA - CINCINNATI : Kudermetova P. vs Seidel E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Kudermetova P. vs Seidel E. (16:30)
-https://new.newkso.ru/wind/premium1508/mono.m3u8
-#EXTINF:-1 tvg-id="1503" tvg-name="WTA - CINCINNATI : LI A. vs Tomova V." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : LI A. vs Tomova V. (18:00)
-https://new.newkso.ru/wind/premium1503/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : Rakhimova K. vs Sakkari M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Rakhimova K. vs Sakkari M. (18:00)
-https://new.newkso.ru/wind/premium1502/mono.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="WTA - CINCINNATI : Uchijima M. vs Osorio C." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Uchijima M. vs Osorio C. (18:00)
-https://new.newkso.ru/wind/premium1507/mono.m3u8
-#EXTINF:-1 tvg-id="1505" tvg-name="WTA - CINCINNATI : Lamens S. vs Kudermetova V." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Lamens S. vs Kudermetova V. (19:30)
-https://new.newkso.ru/wind/premium1505/mono.m3u8
-#EXTINF:-1 tvg-id="1503" tvg-name="WTA - CINCINNATI : Sevastova A. vs Bektas E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Sevastova A. vs Bektas E. (19:30)
-https://new.newkso.ru/wind/premium1503/mono.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="WTA - CINCINNATI : Wang Xin. vs Arango E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Wang Xin. vs Arango E. (19:30)
-https://new.newkso.ru/wind/premium1507/mono.m3u8
-#EXTINF:-1 tvg-id="1501" tvg-name="WTA - CINCINNATI : Parks A. vs Krejcihova B." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : Parks A. vs Krejcihova B. (23:00)
-https://new.newkso.ru/wind/premium1501/mono.m3u8
-#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : McNally C vs Inglis M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WTA Tenis - Cincinnati",WTA - CINCINNATI : McNally C vs Inglis M. (00:30)
-https://new.newkso.ru/wind/premium1502/mono.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis",ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (15:00)
-https://new.newkso.ru/wind/premium40/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="EuroHockey Championship : Germany vs France" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Hokey",EuroHockey Championship : Germany vs France (17:00)
-https://new.newkso.ru/wind/premium17/mono.m3u8
-#EXTINF:-1 tvg-id="588" tvg-name="Supercars Championship, Ipswich Super 440 Super 2 Practice 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Supercars Championship, Ipswich Super 440 Super 2 Practice 2 (03:00)
-https://new.newkso.ru/wind/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="NASCAR Craftsman Truck Series NCTS Race at Watkins Glen, Qualifying" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Craftsman Truck Series NCTS Race at Watkins Glen, Qualifying (15:30)
-https://new.newkso.ru/wind/premium758/mono.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="Speedway: PGE Ekstraliga : ORLEN OIL Motor Lublin - Stelmet Falubaz Zielona Góra" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Speedway: PGE Ekstraliga : ORLEN OIL Motor Lublin - Stelmet Falubaz Zielona Góra (15:30)
-https://new.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 tvg-id="588" tvg-name="Supercars Championship, Ipswich Super 440 Practice 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Supercars Championship, Ipswich Super 440 Practice 2 (16:00)
-https://new.newkso.ru/wind/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="ARCA Menards Series General Tire 100 at The Glen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",ARCA Menards Series General Tire 100 at The Glen (18:00)
-https://new.newkso.ru/wind/premium758/mono.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="Speedway: PGE Ekstraliga : Gezet Stal Gorzów - INNPRO ROW Rybnik" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Speedway: PGE Ekstraliga : Gezet Stal Gorzów - INNPRO ROW Rybnik (18:15)
-https://new.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Indy NXT Series Grand Prix of Portland, Practice" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Indy NXT Series Grand Prix of Portland, Practice (20:00)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="NASCAR Craftsman Truck Series NCTS Race at Watkins Glen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Craftsman Truck Series NCTS Race at Watkins Glen (21:00)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="IndyCar Racing Bitnile.com Grand Prix of Portland, Practice 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",IndyCar Racing Bitnile.com Grand Prix of Portland, Practice 1 (21:30)
-https://new.newkso.ru/wind/premium758/mono.m3u8
-#EXTINF:-1 tvg-id="591" tvg-name="Supercars Championship, Ipswich Super 440 Qualifying Race 23 & 24" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Supercars Championship, Ipswich Super 440 Qualifying Race 23 & 24 (22:00)
-https://new.newkso.ru/wind/premium591/mono.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="Boxing : Mirco Cuello vs Sergio Rios Jimenez" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Boks",Boxing : Mirco Cuello vs Sergio Rios Jimenez (17:30)
-https://new.newkso.ru/wind/premium59/mono.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="Kickboxing : ONE Friday Fights" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="MMA",Kickboxing : ONE Friday Fights (12:30)
-https://new.newkso.ru/wind/premium68/mono.m3u8
-#EXTINF:-1 tvg-id="343" tvg-name="WWE Friday Night SmackDown" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE",WWE Friday Night SmackDown (00:00)
-https://new.newkso.ru/wind/premium343/mono.m3u8
-#EXTINF:-1 tvg-id="475" tvg-name="Scottish Championship. Second round. European Tour" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",Scottish Championship. Second round. European Tour (11:30)
-https://new.newkso.ru/wind/premium475/mono.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="DP World Tour Nexo Championship" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",DP World Tour Nexo Championship (11:30)
-https://new.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 tvg-id="260" tvg-name="Ladies European Tour Pif Championship" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",Ladies European Tour Pif Championship (13:00)
-https://new.newkso.ru/wind/premium260/mono.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="PGA Tour Fedex Playoffs - St Jude Championship" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",PGA Tour Fedex Playoffs - St Jude Championship (17:00)
-https://new.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="LIV Golf League Chicago, Round One" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",LIV Golf League Chicago, Round One (20:30)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="U.S. Women's Amateur Golf, Third Round" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",U.S. Women's Amateur Golf, Third Round (22:00)
-https://new.newkso.ru/wind/premium112/mono.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="LIV Golf League Chicago, Round One" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Golf",LIV Golf League Chicago, Round One (22:30)
-https://new.newkso.ru/wind/premium54/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Kreishh Gurbaxani vs Reanne Evans" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Kreishh Gurbaxani vs Reanne Evans (11:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Robbie McGuigan vs Gao Yang" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Robbie McGuigan vs Gao Yang (11:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Mateusz Baranowski vs Lan Yuhao" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Mateusz Baranowski vs Lan Yuhao (13:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Sam Craigie vs Xu Yi Chen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Sam Craigie vs Xu Yi Chen (13:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Chang Bingyu vs Marco Fu" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Chang Bingyu vs Marco Fu (17:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (17:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Oliver Brown vs Patrick Whelan" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (19:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (19:00)
-https://new.newkso.ru/wind/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="839" tvg-name="CFL : Montreal Alouettes vs Edmonton Eskimos" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Montreal Alouettes vs Edmonton Eskimos (23:30)
-https://new.newkso.ru/wind/premium839/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="NFL : Atlanta Falcons vs Detroit Lions" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Atlanta Falcons vs Detroit Lions (23:00)
-https://new.newkso.ru/wind/premium19/mono.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="NFL : Carolina Panthers vs Cleveland Browns" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Carolina Panthers vs Cleveland Browns (23:00)
-https://new.newkso.ru/wind/premium405/mono.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="NFL : New England Patriots vs Washington Commanders" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : New England Patriots vs Washington Commanders (23:30)
-https://new.newkso.ru/wind/premium20/mono.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="PSB Championship of Russia. Live broadcast from Kazan" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Atletizm",PSB Championship of Russia. Live broadcast from Kazan (13:30)
-https://new.newkso.ru/wind/premium127/mono.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="European Athletics U20 Championships: Finals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Atletizm",European Athletics U20 Championships: Finals (13:30)
-https://new.newkso.ru/wind/premium144/mono.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="Athletics: Zbigniew Ludwichowski Memorial - Olsztyn 2025" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Atletizm",Athletics: Zbigniew Ludwichowski Memorial - Olsztyn 2025 (15:30)
-https://new.newkso.ru/wind/premium128/mono.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Athletics: Silver Meeting vs Banska Bystrica" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Atletizm",Athletics: Silver Meeting vs Banska Bystrica (16:00)
-https://new.newkso.ru/wind/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="AFL : Geelong Cats vs Essendon Bombers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Aussie Kuralları",AFL : Geelong Cats vs Essendon Bombers (09:40)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Little League Baseball Midwest Regional: North Dakota vs TBA" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Little League Baseball Midwest Regional: North Dakota vs TBA (17:00)
-https://new.newkso.ru/wind/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Little League Baseball Mid-Atlantic Regional: Pennsylvania vs TBA" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Little League Baseball Mid-Atlantic Regional: Pennsylvania vs TBA (19:00)
-https://new.newkso.ru/wind/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="2025 Little League Softball World Series Game 17: TBA vs Florida" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",2025 Little League Softball World Series Game 17: TBA vs Florida (20:00)
-https://new.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="Baseball PONY League World Series" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Baseball PONY League World Series (20:30)
-https://new.newkso.ru/wind/premium922/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Little League Baseball Mountain Regional: Nevada vs TBA" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Little League Baseball Mountain Regional: Nevada vs TBA (21:00)
-https://new.newkso.ru/wind/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="2025 Little League Softball World Series Game 18: TBA vs Indiana" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",2025 Little League Softball World Series Game 18: TBA vs Indiana (23:00)
-https://new.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Little League Baseball Metro Regional: New York vs Connecticut" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Little League Baseball Metro Regional: New York vs Connecticut (23:00)
-https://new.newkso.ru/wind/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="Baseball PONY League World Series" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Baseball PONY League World Series (23:30)
-https://new.newkso.ru/wind/premium922/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Little League Baseball Northwest Regional: Washington vs Oregon" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",Little League Baseball Northwest Regional: Washington vs Oregon (01:00)
-https://new.newkso.ru/wind/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="MLB : Pittsburgh Pirates vs Cincinnati Reds" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Pittsburgh Pirates vs Cincinnati Reds (22:40)
-https://new.newkso.ru/wind/premium1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="MLB : New York Yankees vs Houston Astros" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : New York Yankees vs Houston Astros (23:05)
-https://new.newkso.ru/wind/premium2/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="MLB : Baltimore Orioles vs Oakland Athletics" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Baltimore Orioles vs Oakland Athletics (23:05)
-https://new.newkso.ru/wind/premium3/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="MLB : Detroit Tigers vs Los Angeles Angels" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Detroit Tigers vs Los Angeles Angels (23:10)
-https://new.newkso.ru/wind/premium4/mono.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="MLB : Atlanta Braves vs Miami Marlins" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Atlanta Braves vs Miami Marlins (23:15)
-https://new.newkso.ru/wind/premium5/mono.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="MLB : Chicago White Sox vs Cleveland Guardians" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Chicago White Sox vs Cleveland Guardians (23:40)
-https://new.newkso.ru/wind/premium6/mono.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="MLB : Texas Rangers vs Philadelphia Phillies" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Texas Rangers vs Philadelphia Phillies (00:05)
-https://new.newkso.ru/wind/premium7/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="MLB : Minnesota Twins vs Kansas City Royals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Minnesota Twins vs Kansas City Royals (00:10)
-https://new.newkso.ru/wind/premium8/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="MLB : Milwaukee Brewers vs New York Mets" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Milwaukee Brewers vs New York Mets (00:10)
-https://new.newkso.ru/wind/premium9/mono.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="MLB : St. Louis Cardinals vs Chicago Cubs" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : St. Louis Cardinals vs Chicago Cubs (00:15)
-https://new.newkso.ru/wind/premium10/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="MLB : San Diego Padres vs Boston Red Sox" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : San Diego Padres vs Boston Red Sox (01:40)
-https://new.newkso.ru/wind/premium11/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="MLB : Arizona Diamondbacks vs Colorado Rockies" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Arizona Diamondbacks vs Colorado Rockies (01:40)
-https://new.newkso.ru/wind/premium12/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="MLB : Seattle Mariners vs Tampa Bay Rays" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Seattle Mariners vs Tampa Bay Rays (01:40)
-https://new.newkso.ru/wind/premium13/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="MLB : Los Angeles Dodgers vs Toronto Blue Jays" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Los Angeles Dodgers vs Toronto Blue Jays (02:10)
-https://new.newkso.ru/wind/premium14/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="MLB : San Francisco Giants vs Washington Nationals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : San Francisco Giants vs Washington Nationals (02:15)
-https://new.newkso.ru/wind/premium15/mono.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="Asia Cup : South Korea vs Qatar" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",Asia Cup : South Korea vs Qatar (08:00)
-https://new.newkso.ru/wind/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="Asia Cup : Iran vs Japan" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",Asia Cup : Iran vs Japan (11:10)
-https://new.newkso.ru/wind/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="Europe EuroBasket U16 : Turkey U16 vs Israel U16" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",Europe EuroBasket U16 : Turkey U16 vs Israel U16 (12:00)
-https://new.newkso.ru/wind/premium145/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Friendly International : Slovenia vs Germany" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",Friendly International : Slovenia vs Germany (18:15)
-https://new.newkso.ru/wind/premium18/mono.m3u8
-#EXTINF:-1 tvg-id="645" tvg-name="Euro 2025 Preparation : France vs Great Britain" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",Euro 2025 Preparation : France vs Great Britain (19:00)
-https://new.newkso.ru/wind/premium645/mono.m3u8
-#EXTINF:-1 tvg-id="325" tvg-name="WNBA : New York Liberty vs Dallas Wings" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : New York Liberty vs Dallas Wings (23:30)
-https://new.newkso.ru/wind/premium325/mono.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="WNBA : Washington Mystics vs Minnesota Lynx" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : Washington Mystics vs Minnesota Lynx (23:30)
-https://new.newkso.ru/wind/premium21/mono.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="CEBL : Winnipeg Sea Bears vs Brampton Honey Badgers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",CEBL : Winnipeg Sea Bears vs Brampton Honey Badgers (00:30)
-https://new.newkso.ru/wind/premium112/mono.m3u8
-#EXTINF:-1 tvg-id="325" tvg-name="WNBA : Seattle Storm vs Las Vegas Aces" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : Seattle Storm vs Las Vegas Aces (02:00)
-https://new.newkso.ru/wind/premium325/mono.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="Waterskiing: Qualifications, Wakesurf, Dan Milstein" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Yelken / Tekne",Waterskiing: Qualifications, Wakesurf, Dan Milstein (03:00)
-https://new.newkso.ru/wind/premium145/mono.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="Wakesurf / Wakeboard: Consolation" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Yelken / Tekne",Wakesurf / Wakeboard: Consolation (01:00)
-https://new.newkso.ru/wind/premium144/mono.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km)" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (09:30)
-https://new.newkso.ru/wind/premium31/mono.m3u8
-#EXTINF:-1 tvg-id="455" tvg-name="Vuelta a Burgos Stage 4 - 162 Burpellet - Regumiel de la Sierra" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",Vuelta a Burgos Stage 4 - 162 Burpellet - Regumiel de la Sierra (13:00)
-https://new.newkso.ru/wind/premium455/mono.m3u8
-#EXTINF:-1 tvg-id="719" tvg-name="86th Tour of Portugal by Bicycle 2nd Stage" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",86th Tour of Portugal by Bicycle 2nd Stage (14:00)
-https://new.newkso.ru/wind/premium719/mono.m3u8
-#EXTINF:-1 tvg-id="588" tvg-name="Arctic Race of Norway Stage 2 - 153 Tennevoll (Lavangen) - Sørreisa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",Arctic Race of Norway Stage 2 - 153 Tennevoll (Lavangen) - Sørreisa (14:15)
-https://new.newkso.ru/wind/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Tour de l'Ain | Stage 3 Men | Plateau d'Hauteville – Belley (130.5km)" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Bisikletçilik",Tour de l'Ain | Stage 3 Men | Plateau d'Hauteville – Belley (130.5km) (14:30)
-https://new.newkso.ru/wind/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="PDC Darts, Australian Darts Masters Round of 16 | World Series of Darts" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Dart",PDC Darts, Australian Darts Masters Round of 16 | World Series of Darts (09:00)
-https://new.newkso.ru/wind/premium43/mono.m3u8
-#EXTINF:-1 tvg-id="494" tvg-name="Global Champions League | Londres Jumps | Round 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Atlı",Global Champions League | Londres Jumps | Round 1 (13:40)
-https://new.newkso.ru/wind/premium494/mono.m3u8
-#EXTINF:-1 tvg-id="275" tvg-name="LNF : Intelli vs Corinthians" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futsal",LNF : Intelli vs Corinthians (23:00)
-https://new.newkso.ru/wind/premium275/mono.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="World Championship U19 : Norway U19 vs Mexico U19" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Hentbol",World Championship U19 : Norway U19 vs Mexico U19 (14:15)
-https://new.newkso.ru/wind/premium27/mono.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="World Championship U19 : Hungary U19 vs Kosovo U19" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Hentbol",World Championship U19 : Hungary U19 vs Kosovo U19 (14:15)
-https://new.newkso.ru/wind/premium265/mono.m3u8
-#EXTINF:-1 tvg-id="554" tvg-name="Live racing from around the UK" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Live racing from around the UK (12:00)
-https://new.newkso.ru/wind/premium554/mono.m3u8
-#EXTINF:-1 tvg-id="555" tvg-name="Live racing from Musselburgh, Thirsk, Newmarket, Haydock, Tipperary and Wexford" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Live racing from Musselburgh, Thirsk, Newmarket, Haydock, Tipperary and Wexford (12:30)
-https://new.newkso.ru/wind/premium555/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Horse Racing Saratoga Live" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Horse Racing Saratoga Live (20:00)
-https://new.newkso.ru/wind/premium758/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Dan Patch Stakes" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Dan Patch Stakes (00:00)
-https://new.newkso.ru/wind/premium758/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Dan Patch Stakes" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Dan Patch Stakes (01:30)
-https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="Premier Lacrosse League : Carolina Chaos vs Utah Archers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Varisinde",Premier Lacrosse League : Carolina Chaos vs Utah Archers (01:00)
-https://new.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="National Rugby League : Newcastle Knights vs Penrith Panthers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby Ligi",National Rugby League : Newcastle Knights vs Penrith Panthers (08:00)
-https://new.newkso.ru/wind/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="National Rugby League : Canberra Raiders vs Manly Sea Eagles" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby Ligi",National Rugby League : Canberra Raiders vs Manly Sea Eagles (10:00)
-https://new.newkso.ru/wind/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="640" tvg-name="Super League Rugby : Wakefield Trinity vs St Helens" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby Ligi",Super League Rugby : Wakefield Trinity vs St Helens (19:00)
-https://new.newkso.ru/wind/premium640/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="Super League Rugby : Warrington Wolves vs Wigan Warriors" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby Ligi",Super League Rugby : Warrington Wolves vs Wigan Warriors (19:00)
-https://new.newkso.ru/wind/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="449" tvg-name="Bunnings NPC : Northland vs Southland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Ragbi Birliği",Bunnings NPC : Northland vs Southland (07:05)
-https://new.newkso.ru/wind/premium449/mono.m3u8
-#EXTINF:-1 tvg-id="590" tvg-name="Currie Cup : Griquas vs Western Province" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Ragbi Birliği",Currie Cup : Griquas vs Western Province (13:00)
-https://new.newkso.ru/wind/premium590/mono.m3u8
-#EXTINF:-1 tvg-id="588" tvg-name="Bunnings NPC : North Harbour vs Taranaki" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Ragbi Birliği",Bunnings NPC : North Harbour vs Taranaki (02:00)
-https://new.newkso.ru/wind/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="589" tvg-name="Bunnings NPC : Waikato vs Wellington" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Ragbi Birliği",Bunnings NPC : Waikato vs Wellington (02:00)
-https://new.newkso.ru/wind/premium589/mono.m3u8
-#EXTINF:-1 tvg-id="592" tvg-name="1st XV : Christchurch vs Christ's F" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Ragbi Birliği",1st XV : Christchurch vs Christ's F (03:05)
-https://new.newkso.ru/wind/premium592/mono.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="Volleyball U-21 World Championship Women's : Türkiye vs Poland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Volleyball U-21 World Championship Women's : Türkiye vs Poland (07:00)
-https://new.newkso.ru/wind/premium47/mono.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="Beach Volleyball: PGE Grand Prix" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Beach Volleyball: PGE Grand Prix (08:00)
-https://new.newkso.ru/wind/premium129/mono.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="Beach Volleyball: PGE Grand Prix" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Beach Volleyball: PGE Grand Prix (10:00)
-https://new.newkso.ru/wind/premium129/mono.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="Beach Volleyball: PGE Grand Prix" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Beach Volleyball: PGE Grand Prix (11:30)
-https://new.newkso.ru/wind/premium129/mono.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="Women's volleyball Friendly : Poland vs Ukraine" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Women's volleyball Friendly : Poland vs Ukraine (16:00)
-https://new.newkso.ru/wind/premium47/mono.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="AVP Beach Volleyball League Week 8 - Dallas" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",AVP Beach Volleyball League Week 8 - Dallas (01:00)
-https://new.newkso.ru/wind/premium308/mono.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="Volleyball U-21 World Championship Women's : Italy vs Poland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",Volleyball U-21 World Championship Women's : Italy vs Poland (03:00)
-https://new.newkso.ru/wind/premium47/mono.m3u8
 #EXTINF:-1 tvg-id="766" tvg-name="Wildlife Nation With Jeff Corwin Episode 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Wildlife Nation With Jeff Corwin Episode 7 (15:00)
 https://new.newkso.ru/wind/premium766/mono.m3u8
 #EXTINF:-1 tvg-id="769" tvg-name="Wild Child Season 5, Episode 23" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="TV Şovları",Wild Child Season 5, Episode 23 (15:30)
@@ -1013,10 +485,6 @@ https://new.newkso.ru/wind/premium910/mono.m3u8
 https://new.newkso.ru/wind/premium66/mono.m3u8
 #EXTINF:-1 tvg-id="844" tvg-name="Liga MX : Mazatlán vs Tijuana" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Liga MX : Mazatlán vs Tijuana (03:00)
 https://new.newkso.ru/wind/premium844/mono.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Florida Open Pool Championship: 9-Ball Florida Open" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Florida Open Pool Championship: 9-Ball Florida Open (17:00)
-https://new.newkso.ru/wind/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Florida Open Pool Championship: 9-Ball Florida Open" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Florida Open Pool Championship: 9-Ball Florida Open (23:30)
-https://new.newkso.ru/wind/premium103/mono.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="2nd Test | Day 3 : Zimbabwe vs New Zealand" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",2nd Test | Day 3 : Zimbabwe vs New Zealand (07:30)
 https://new.newkso.ru/wind/premium346/mono.m3u8
 #EXTINF:-1 tvg-id="598" tvg-name="The Hundred Women : Oval Invincibles W vs Manchester Originals W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",The Hundred Women : Oval Invincibles W vs Manchester Originals W (10:00)
@@ -1027,6 +495,70 @@ https://new.newkso.ru/wind/premium449/mono.m3u8
 https://new.newkso.ru/wind/premium598/mono.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="The Hundred : Welsh Fire vs London Spirit" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Kriket",The Hundred : Welsh Fire vs London Spirit (17:00)
 https://new.newkso.ru/wind/premium346/mono.m3u8
+#EXTINF:-1 tvg-id="1513" tvg-name="ATP - CINCINNATI : Bonzi B. vs Musetti L" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Bonzi B. vs Musetti L (15:00)
+https://new.newkso.ru/wind/premium1513/mono.m3u8
+#EXTINF:-1 tvg-id="1512" tvg-name="ATP - CINCINNATI : Michelsen A. vs Moutet C." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Michelsen A. vs Moutet C. (15:00)
+https://new.newkso.ru/wind/premium1512/mono.m3u8
+#EXTINF:-1 tvg-id="1510" tvg-name="ATP - CINCINNATI : Ruud C. vs Rinderknech A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Ruud C. vs Rinderknech A. (15:00)
+https://new.newkso.ru/wind/premium1510/mono.m3u8
+#EXTINF:-1 tvg-id="1511" tvg-name="ATP - CINCINNATI : Safiullin R. vs Rune H." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Safiullin R. vs Rune H. (15:00)
+https://new.newkso.ru/wind/premium1511/mono.m3u8
+#EXTINF:-1 tvg-id="1514" tvg-name="ATP - CINCINNATI : Etcheverry T. M. vs Auger-Aliassime F." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Etcheverry T. M. vs Auger-Aliassime F. (16:30)
+https://new.newkso.ru/wind/premium1514/mono.m3u8
+#EXTINF:-1 tvg-id="1509" tvg-name="ATP - CINCINNATI : Martinez P. vs Paul T" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Martinez P. vs Paul T (16:30)
+https://new.newkso.ru/wind/premium1509/mono.m3u8
+#EXTINF:-1 tvg-id="1512" tvg-name="ATP - CINCINNATI : Tsitsipas S. vs Marozsan F." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Tsitsipas S. vs Marozsan F. (16:30)
+https://new.newkso.ru/wind/premium1512/mono.m3u8
+#EXTINF:-1 tvg-id="1514" tvg-name="ATP - CINCINNATI : Baez S. vs Diallo G." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Baez S. vs Diallo G. (18:00)
+https://new.newkso.ru/wind/premium1514/mono.m3u8
+#EXTINF:-1 tvg-id="1516" tvg-name="ATP - CINCINNATI : Machac T. vs Mannarino A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Machac T. vs Mannarino A. (18:00)
+https://new.newkso.ru/wind/premium1516/mono.m3u8
+#EXTINF:-1 tvg-id="1509" tvg-name="ATP - CINCINNATI : Sinner J. vs Galan D. E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Sinner J. vs Galan D. E. (18:00)
+https://new.newkso.ru/wind/premium1509/mono.m3u8
+#EXTINF:-1 tvg-id="1517" tvg-name="ATP - CINCINNATI : Wong C. vs Humbert U." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Wong C. vs Humbert U. (18:00)
+https://new.newkso.ru/wind/premium1517/mono.m3u8
+#EXTINF:-1 tvg-id="1513" tvg-name="ATP - CINCINNATI : Atmane T. vs Cobolli F." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Atmane T. vs Cobolli F. (19:30)
+https://new.newkso.ru/wind/premium1513/mono.m3u8
+#EXTINF:-1 tvg-id="1517" tvg-name="ATP - CINCINNATI : Bergs Z. vs Sonego L" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Bergs Z. vs Sonego L (19:30)
+https://new.newkso.ru/wind/premium1517/mono.m3u8
+#EXTINF:-1 tvg-id="1511" tvg-name="ATP - CINCINNATI : Davidovich Fokina A. vs Fonseca J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Davidovich Fokina A. vs Fonseca J. (19:30)
+https://new.newkso.ru/wind/premium1511/mono.m3u8
+#EXTINF:-1 tvg-id="1510" tvg-name="ATP - CINCINNATI : Tiafoe F. vs Carballes Baena R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Tiafoe F. vs Carballes Baena R. (23:00)
+https://new.newkso.ru/wind/premium1510/mono.m3u8
+#EXTINF:-1 tvg-id="1509" tvg-name="ATP - CINCINNATI : Fritz T. vs Nava E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis ATP - Cincinnati",ATP - CINCINNATI : Fritz T. vs Nava E. (00:30)
+https://new.newkso.ru/wind/premium1509/mono.m3u8
+#EXTINF:-1 tvg-id="1506" tvg-name="WTA - CINCINNATI : Maria T. vs Kostyuk M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Maria T. vs Kostyuk M. (15:00)
+https://new.newkso.ru/wind/premium1506/mono.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="WTA - CINCINNATI : Swiatek 1. vs Potapova A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Swiatek 1. vs Potapova A. (15:00)
+https://new.newkso.ru/wind/premium40/mono.m3u8
+#EXTINF:-1 tvg-id="1508" tvg-name="WTA - CINCINNATI : Pavlyuchenkova A. vs Ito A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Pavlyuchenkova A. vs Ito A. (15:00)
+https://new.newkso.ru/wind/premium1508/mono.m3u8
+#EXTINF:-1 tvg-id="1503" tvg-name="WTA - CINCINNATI : Fernandez L. vs Bouzas Maneiro J." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Fernandez L. vs Bouzas Maneiro J. (16:30)
+https://new.newkso.ru/wind/premium1503/mono.m3u8
+#EXTINF:-1 tvg-id="1508" tvg-name="WTA - CINCINNATI : Frech M. vs Cirstea S." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Frech M. vs Cirstea S. (16:30)
+https://new.newkso.ru/wind/premium1508/mono.m3u8
+#EXTINF:-1 tvg-id="1505" tvg-name="WTA - CINCINNATI : Joint M. vs Haddad Maia B." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Joint M. vs Haddad Maia B. (16:30)
+https://new.newkso.ru/wind/premium1505/mono.m3u8
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : Lys E. vs Keys M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Lys E. vs Keys M. (17:00)
+https://new.newkso.ru/wind/premium1502/mono.m3u8
+#EXTINF:-1 tvg-id="1515" tvg-name="WTA - CINCINNATI : Danilovic Q. vs Raducanu E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Danilovic Q. vs Raducanu E. (18:00)
+https://new.newkso.ru/wind/premium1515/mono.m3u8
+#EXTINF:-1 tvg-id="1505" tvg-name="WTA - CINCINNATI : Ngounoue C. vs Mertens E." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Ngounoue C. vs Mertens E. (18:00)
+https://new.newkso.ru/wind/premium1505/mono.m3u8
+#EXTINF:-1 tvg-id="1503" tvg-name="WTA - CINCINNATI : Townsend T. vs Samsonova L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Townsend T. vs Samsonova L. (18:00)
+https://new.newkso.ru/wind/premium1503/mono.m3u8
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : Rybakina E. vs Zarazua R." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Rybakina E. vs Zarazua R. (18:30)
+https://new.newkso.ru/wind/premium1502/mono.m3u8
+#EXTINF:-1 tvg-id="1507" tvg-name="WTA - CINCINNATI : Alexandrova E. vs Sun L." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Alexandrova E. vs Sun L. (19:30)
+https://new.newkso.ru/wind/premium1507/mono.m3u8
+#EXTINF:-1 tvg-id="1504" tvg-name="WTA - CINCINNATI : Kalinskaya A. vs Stearns P." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Kalinskaya A. vs Stearns P. (19:30)
+https://new.newkso.ru/wind/premium1504/mono.m3u8
+#EXTINF:-1 tvg-id="1506" tvg-name="WTA - CINCINNATI : Yuan Y. vs Shnaider D." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Yuan Y. vs Shnaider D. (19:30)
+https://new.newkso.ru/wind/premium1506/mono.m3u8
+#EXTINF:-1 tvg-id="1501" tvg-name="WTA - CINCINNATI : Sabalenka A. vs Vondrousova M." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Sabalenka A. vs Vondrousova M. (23:00)
+https://new.newkso.ru/wind/premium1501/mono.m3u8
+#EXTINF:-1 tvg-id="1502" tvg-name="WTA - CINCINNATI : Jeanjean L. vs Anisimova A." tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis WTA - Cincinnati",WTA - CINCINNATI : Jeanjean L. vs Anisimova A. (00:30)
+https://new.newkso.ru/wind/premium1502/mono.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Tenis",ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (15:00)
 https://new.newkso.ru/wind/premium40/mono.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="EuroHockey Championship Women : Germany W vs France W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Hokey",EuroHockey Championship Women : Germany W vs France W (16:00)
@@ -1109,8 +641,12 @@ https://new.newkso.ru/wind/premium592/mono.m3u8
 https://new.newkso.ru/wind/premium318/mono.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session (11:00)
 https://new.newkso.ru/wind/premium33/mono.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Florida Open Pool Championship: 9-Ball Florida Open" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Florida Open Pool Championship: 9-Ball Florida Open (17:00)
+https://new.newkso.ru/wind/premium103/mono.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Saudi Arabia Masters | Jeddah | Day-2 Evening Session" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Saudi Arabia Masters | Jeddah | Day-2 Evening Session (17:00)
 https://new.newkso.ru/wind/premium33/mono.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Florida Open Pool Championship: 9-Ball Florida Open" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Snooker",Florida Open Pool Championship: 9-Ball Florida Open (23:30)
+https://new.newkso.ru/wind/premium103/mono.m3u8
 #EXTINF:-1 tvg-id="308" tvg-name="CFL : Toronto Argonauts vs Ottawa Redblacks" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Toronto Argonauts vs Ottawa Redblacks (19:00)
 https://new.newkso.ru/wind/premium308/mono.m3u8
 #EXTINF:-1 tvg-id="308" tvg-name="CFL : Calgary Stampeders vs Winnipeg Blue Bombers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Calgary Stampeders vs Winnipeg Blue Bombers (23:00)
@@ -1167,8 +703,6 @@ https://new.newkso.ru/wind/premium12/mono.m3u8
 https://new.newkso.ru/wind/premium13/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="MLB : Minnesota Twins vs Kansas City Royals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Minnesota Twins vs Kansas City Royals (23:10)
 https://new.newkso.ru/wind/premium14/mono.m3u8
-#EXTINF:-1 tvg-id="776" tvg-name="MLB : Chicago White Sox vs Cleveland Guardians" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Chicago White Sox vs Cleveland Guardians (23:10)
-https://new.newkso.ru/wind/premium776/mono.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="MLB : Milwaukee Brewers vs New York Mets" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Milwaukee Brewers vs New York Mets (23:10)
 https://new.newkso.ru/wind/premium15/mono.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="MLB : Atlanta Braves vs Miami Marlins" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Atlanta Braves vs Miami Marlins (23:15)
@@ -1241,7 +775,7 @@ https://new.newkso.ru/wind/premium758/mono.m3u8
 https://new.newkso.ru/wind/premium54/mono.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Horse Racing Saratoga Live" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="At Yarışı",Horse Racing Saratoga Live (22:00)
 https://new.newkso.ru/wind/premium39/mono.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Varisinde",Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas (17:00)
+#EXTINF:-1 tvg-id="51" tvg-name="Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Lakros",Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas (17:00)
 https://new.newkso.ru/wind/premium51/mono.m3u8
 #EXTINF:-1 tvg-id="449" tvg-name="National Rugby League Women : St. George Illawarra Dragons W vs Cronulla Sharks W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby Ligi",National Rugby League Women : St. George Illawarra Dragons W vs Cronulla Sharks W (02:45)
 https://new.newkso.ru/wind/premium449/mono.m3u8
@@ -1305,137 +839,231 @@ https://new.newkso.ru/wind/premium24/mono.m3u8
 https://new.newkso.ru/wind/premium23/mono.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="AVP Beach Volleyball League Week 8 - Dallas" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Voleybol",AVP Beach Volleyball League Week 8 - Dallas (00:00)
 https://new.newkso.ru/wind/premium300/mono.m3u8
-#EXTINF:-1 tvg-id="323" tvg-name="Soccer : Olympiakos Piraeus vs Al Taawon" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Olympiakos Piraeus vs Al Taawon (14:00)
-https://new.newkso.ru/wind/premium323/mono.m3u8
-#EXTINF:-1 tvg-id="339" tvg-name="Soccer : Algeria vs South Africa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Algeria vs South Africa (14:00)
-https://new.newkso.ru/wind/premium339/mono.m3u8
-#EXTINF:-1 tvg-id="379" tvg-name="Soccer : Dobrudzha vs CSKA 1948 Sofia" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Dobrudzha vs CSKA 1948 Sofia (16:00)
-https://new.newkso.ru/wind/premium379/mono.m3u8
-#EXTINF:-1 tvg-id="378" tvg-name="Soccer : F.C. Kobenhavn vs AGF" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : F.C. Kobenhavn vs AGF (16:00)
-https://new.newkso.ru/wind/premium378/mono.m3u8
-#EXTINF:-1 tvg-id="311" tvg-name="Soccer : Germany - Bundesliga 2 : Simulcast" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Germany - Bundesliga 2 : Simulcast (16:30)
-https://new.newkso.ru/wind/premium311/mono.m3u8
-#EXTINF:-1 tvg-id="312" tvg-name="Soccer : FC Nurnberg vs SV Darmstadt 98" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : FC Nurnberg vs SV Darmstadt 98 (16:30)
-https://new.newkso.ru/wind/premium312/mono.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="Soccer : Preussen Munster vs SC Paderborn 07" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Preussen Munster vs SC Paderborn 07 (16:30)
-https://new.newkso.ru/wind/premium313/mono.m3u8
-#EXTINF:-1 tvg-id="314" tvg-name="Soccer : Schweinfurt vs Cottbus" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Schweinfurt vs Cottbus (17:00)
-https://new.newkso.ru/wind/premium314/mono.m3u8
-#EXTINF:-1 tvg-id="337" tvg-name="Soccer : Guinea vs Uganda" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Guinea vs Uganda (17:00)
-https://new.newkso.ru/wind/premium337/mono.m3u8
-#EXTINF:-1 tvg-id="315" tvg-name="Soccer : Chelsea vs Bayer Leverkusen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Chelsea vs Bayer Leverkusen (18:00)
+#EXTINF:-1 tvg-id="321" tvg-name="Soccer : Paços de Ferreira vs Vizela" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Paços de Ferreira vs Vizela (10:00)
+https://new.newkso.ru/wind/premium321/mono.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="Soccer : Brighton & Hove Albion vs Wolfsburg" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Brighton & Hove Albion vs Wolfsburg (10:30)
 https://new.newkso.ru/wind/premium315/mono.m3u8
-#EXTINF:-1 tvg-id="388" tvg-name="Soccer : Fortuna Sittard vs Go Ahead Eagles" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Fortuna Sittard vs Go Ahead Eagles (18:00)
-https://new.newkso.ru/wind/premium388/mono.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="Soccer : De Graafschap vs VVV-Venlo" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : De Graafschap vs VVV-Venlo (18:00)
-https://new.newkso.ru/wind/premium393/mono.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="Soccer : FC Den Bosch vs Jong Ajax" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : FC Den Bosch vs Jong Ajax (18:00)
-https://new.newkso.ru/wind/premium394/mono.m3u8
-#EXTINF:-1 tvg-id="351" tvg-name="Soccer : Monaco vs Internazionale" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Monaco vs Internazionale (18:00)
-https://new.newkso.ru/wind/premium351/mono.m3u8
-#EXTINF:-1 tvg-id="376" tvg-name="Soccer : Kazincbarcika vs Debrecen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Kazincbarcika vs Debrecen (18:00)
-https://new.newkso.ru/wind/premium376/mono.m3u8
-#EXTINF:-1 tvg-id="377" tvg-name="Soccer : Viborg vs SønderjyskE" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Viborg vs SønderjyskE (18:00)
-https://new.newkso.ru/wind/premium377/mono.m3u8
-#EXTINF:-1 tvg-id="379" tvg-name="Soccer : Montana vs Botev Vratsa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Montana vs Botev Vratsa (18:15)
-https://new.newkso.ru/wind/premium379/mono.m3u8
-#EXTINF:-1 tvg-id="329" tvg-name="Soccer : Newcastle United vs Espanyol" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Newcastle United vs Espanyol (18:30)
-https://new.newkso.ru/wind/premium329/mono.m3u8
-#EXTINF:-1 tvg-id="339" tvg-name="Soccer : Gaziantep FK vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Gaziantep FK vs Galatasaray (18:30)
-https://new.newkso.ru/wind/premium339/mono.m3u8
-#EXTINF:-1 tvg-id="349" tvg-name="Soccer : Poland - Ekstraklasa : Górnik Zabrze vs Nieciecza" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Poland - Ekstraklasa : Górnik Zabrze vs Nieciecza (18:30)
-https://new.newkso.ru/wind/premium349/mono.m3u8
-#EXTINF:-1 tvg-id="364" tvg-name="Soccer : Śląsk Wrocław vs Miedź Legnica" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Śląsk Wrocław vs Miedź Legnica (18:30)
-https://new.newkso.ru/wind/premium364/mono.m3u8
-#EXTINF:-1 tvg-id="359" tvg-name="Soccer : Sint-Truiden vs Dender" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Sint-Truiden vs Dender (18:45)
-https://new.newkso.ru/wind/premium359/mono.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="Soccer : Birmingham City vs Ipswich Town" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Birmingham City vs Ipswich Town (19:00)
-https://new.newkso.ru/wind/premium308/mono.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="Soccer : Sporting Braga II vs Paredes" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Sporting Braga II vs Paredes (19:00)
-https://new.newkso.ru/wind/premium322/mono.m3u8
-#EXTINF:-1 tvg-id="370" tvg-name="Soccer : Dinamo Zagreb vs Vukovar" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Dinamo Zagreb vs Vukovar (19:00)
-https://new.newkso.ru/wind/premium370/mono.m3u8
-#EXTINF:-1 tvg-id="353" tvg-name="Soccer : Casa Pia vs Sporting CP" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Casa Pia vs Sporting CP (19:00)
-https://new.newkso.ru/wind/premium353/mono.m3u8
-#EXTINF:-1 tvg-id="326" tvg-name="Soccer : Tigre vs Huracán" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Tigre vs Huracán (22:00)
-https://new.newkso.ru/wind/premium326/mono.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="Soccer : Defensor Sporting vs River Plate" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Defensor Sporting vs River Plate (22:00)
-https://new.newkso.ru/wind/premium306/mono.m3u8
-#EXTINF:-1 tvg-id="327" tvg-name="Soccer : Newell's Old Boys vs Central Córdoba SdE" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Newell's Old Boys vs Central Córdoba SdE (00:00)
-https://new.newkso.ru/wind/premium327/mono.m3u8
-#EXTINF:-1 tvg-id="326" tvg-name="Soccer : Lanús vs Talleres Córdoba" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Lanús vs Talleres Córdoba (00:15)
-https://new.newkso.ru/wind/premium326/mono.m3u8
-#EXTINF:-1 tvg-id="381" tvg-name="Soccer : Tigres UANL vs Puebla" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Tigres UANL vs Puebla (03:00)
-https://new.newkso.ru/wind/premium381/mono.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="NASCAR Craftsman Truck Series NCTS Race" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Craftsman Truck Series NCTS Race (15:30)
-https://new.newkso.ru/wind/premium332/mono.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="General Tire 100 at the Glen Race" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",General Tire 100 at the Glen Race (18:00)
-https://new.newkso.ru/wind/premium332/mono.m3u8
-#EXTINF:-1 tvg-id="301" tvg-name="Indy NXT Series Grand Prix" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Indy NXT Series Grand Prix (20:00)
-https://new.newkso.ru/wind/premium301/mono.m3u8
-#EXTINF:-1 tvg-id="381" tvg-name="NASCAR Craftsman Truck Series NCTS Race" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",NASCAR Craftsman Truck Series NCTS Race (21:00)
-https://new.newkso.ru/wind/premium381/mono.m3u8
-#EXTINF:-1 tvg-id="382" tvg-name="IndyCar Racing Bitnile.com Grand Prix of Portland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",IndyCar Racing Bitnile.com Grand Prix of Portland (21:30)
-https://new.newkso.ru/wind/premium382/mono.m3u8
-#EXTINF:-1 tvg-id="334" tvg-name="Supercars Ipswich 440" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Supercars Ipswich 440 (23:35)
-https://new.newkso.ru/wind/premium334/mono.m3u8
-#EXTINF:-1 tvg-id="354" tvg-name="ONE Friday Fights 119" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",ONE Friday Fights 119 (12:30)
+#EXTINF:-1 tvg-id="311" tvg-name="Soccer : Germany Bundesliga 2 : Simulcast" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Germany Bundesliga 2 : Simulcast (11:00)
+https://new.newkso.ru/wind/premium311/mono.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="Soccer : Dynamo Dresden vs Magdeburg" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Dynamo Dresden vs Magdeburg (11:00)
+https://new.newkso.ru/wind/premium312/mono.m3u8
+#EXTINF:-1 tvg-id="355" tvg-name="Soccer : Fortuna Düsseldorf vs Hannover 96" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Fortuna Düsseldorf vs Hannover 96 (11:00)
+https://new.newkso.ru/wind/premium355/mono.m3u8
+#EXTINF:-1 tvg-id="314" tvg-name="Soccer : Eintracht Braunschweig vs Greuther Fürth" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Eintracht Braunschweig vs Greuther Fürth (11:00)
+https://new.newkso.ru/wind/premium314/mono.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="Soccer : Southampton vs Wrexham" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Southampton vs Wrexham (11:30)
 https://new.newkso.ru/wind/premium354/mono.m3u8
-#EXTINF:-1 tvg-id="328" tvg-name="Mirco Cuello vs Sergio Rios Jimenez" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",Mirco Cuello vs Sergio Rios Jimenez (16:00)
-https://new.newkso.ru/wind/premium328/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="UFC Fight Night Pre-Show: Dolidze vs Hernandez" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",UFC Fight Night Pre-Show: Dolidze vs Hernandez (21:35)
-https://new.newkso.ru/wind/premium1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="WWE Friday Night Smackdown" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",WWE Friday Night Smackdown (00:00)
-https://new.newkso.ru/wind/premium2/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="XFN 403" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",XFN 403 (01:00)
-https://new.newkso.ru/wind/premium3/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="NXT Level Up" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",NXT Level Up (02:00)
-https://new.newkso.ru/wind/premium4/mono.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="NFL : Atlanta Falcons vs Detroit Lions" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Atlanta Falcons vs Detroit Lions (23:00)
-https://new.newkso.ru/wind/premium306/mono.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="NFL : Carolina Panthers vs Cleveland Browns" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Carolina Panthers vs Cleveland Browns (23:00)
-https://new.newkso.ru/wind/premium307/mono.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="NFL : New England Patriots vs Washington Commanders" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : New England Patriots vs Washington Commanders (23:30)
+#EXTINF:-1 tvg-id="308" tvg-name="Soccer : Coventry City vs Hull City" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Coventry City vs Hull City (11:30)
 https://new.newkso.ru/wind/premium308/mono.m3u8
-#EXTINF:-1 tvg-id="341" tvg-name="CFL : Montreal Alouettes vs Edmonton Elks" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Montreal Alouettes vs Edmonton Elks (23:30)
+#EXTINF:-1 tvg-id="331" tvg-name="Soccer : Charlton Athletic vs Watford" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Charlton Athletic vs Watford (11:30)
+https://new.newkso.ru/wind/premium331/mono.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="Soccer : Manchester United vs Fiorentina" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Manchester United vs Fiorentina (11:45)
+https://new.newkso.ru/wind/premium304/mono.m3u8
+#EXTINF:-1 tvg-id="351" tvg-name="Soccer : Guingamp vs Le Mans" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Guingamp vs Le Mans (12:00)
+https://new.newkso.ru/wind/premium351/mono.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="Soccer : Widzew Łódź vs Wisła Płock" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Widzew Łódź vs Wisła Płock (12:45)
+https://new.newkso.ru/wind/premium360/mono.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="Soccer : Union Berlin vs Olympiakos Piraeus" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Union Berlin vs Olympiakos Piraeus (13:30)
+https://new.newkso.ru/wind/premium323/mono.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="Soccer : Werder Bremen vs Udinese" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Werder Bremen vs Udinese (13:30)
+https://new.newkso.ru/wind/premium345/mono.m3u8
+#EXTINF:-1 tvg-id="347" tvg-name="Soccer : Köln vs Atalanta" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Köln vs Atalanta (13:30)
+https://new.newkso.ru/wind/premium347/mono.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="Soccer : Mainz 05 vs Strasbourg" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Mainz 05 vs Strasbourg (13:30)
+https://new.newkso.ru/wind/premium352/mono.m3u8
+#EXTINF:-1 tvg-id="386" tvg-name="Soccer : Wolverhampton Wanderers vs Celta de Vigo" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Wolverhampton Wanderers vs Celta de Vigo (14:00)
+https://new.newkso.ru/wind/premium386/mono.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="Soccer : Everton vs Roma" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Everton vs Roma (14:00)
+https://new.newkso.ru/wind/premium310/mono.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Soccer : Hull KR vs Castleford Tigers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Hull KR vs Castleford Tigers (14:00)
+https://new.newkso.ru/wind/premium383/mono.m3u8
+#EXTINF:-1 tvg-id="387" tvg-name="Soccer : West Ham United vs Lille" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : West Ham United vs Lille (14:00)
+https://new.newkso.ru/wind/premium387/mono.m3u8
+#EXTINF:-1 tvg-id="330" tvg-name="Soccer : Leeds United vs Milan" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Leeds United vs Milan (14:00)
+https://new.newkso.ru/wind/premium330/mono.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Soccer : Oxford United vs Portsmouth" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Oxford United vs Portsmouth (14:00)
+https://new.newkso.ru/wind/premium332/mono.m3u8
+#EXTINF:-1 tvg-id="333" tvg-name="Soccer : Queens Park Rangers vs Preston North End" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Queens Park Rangers vs Preston North End (14:00)
+https://new.newkso.ru/wind/premium333/mono.m3u8
+#EXTINF:-1 tvg-id="334" tvg-name="Soccer : Middlesbrough vs Swansea City" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Middlesbrough vs Swansea City (14:00)
+https://new.newkso.ru/wind/premium334/mono.m3u8
+#EXTINF:-1 tvg-id="335" tvg-name="Soccer : Stoke City vs Derby County" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Stoke City vs Derby County (14:00)
+https://new.newkso.ru/wind/premium335/mono.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="Soccer : West Bromwich Albion vs Blackburn Rovers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : West Bromwich Albion vs Blackburn Rovers (14:00)
+https://new.newkso.ru/wind/premium336/mono.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Soccer : Norwich City vs Millwall" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Norwich City vs Millwall (14:00)
+https://new.newkso.ru/wind/premium337/mono.m3u8
+#EXTINF:-1 tvg-id="338" tvg-name="Soccer : Central African Republic vs Mauritania" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Central African Republic vs Mauritania (14:00)
+https://new.newkso.ru/wind/premium338/mono.m3u8
+#EXTINF:-1 tvg-id="340" tvg-name="Soccer : Progreso vs Cerro Largo" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Progreso vs Cerro Largo (14:00)
+https://new.newkso.ru/wind/premium340/mono.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="Soccer : Burnley vs Lazio" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Burnley vs Lazio (14:00)
+https://new.newkso.ru/wind/premium349/mono.m3u8
+#EXTINF:-1 tvg-id="378" tvg-name="Soccer : Club Brugge vs Cercle Brugge" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Club Brugge vs Cercle Brugge (14:00)
+https://new.newkso.ru/wind/premium378/mono.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="Soccer : Nacional vs Gil Vicente" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Nacional vs Gil Vicente (14:30)
+https://new.newkso.ru/wind/premium321/mono.m3u8
+#EXTINF:-1 tvg-id="388" tvg-name="Soccer : NEC vs Excelsior" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : NEC vs Excelsior (14:30)
+https://new.newkso.ru/wind/premium388/mono.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="Soccer : Newcastle United vs Atlético Madrid" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Newcastle United vs Atlético Madrid (15:00)
+https://new.newkso.ru/wind/premium308/mono.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="Soccer : Stuttgart vs Bologna" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Stuttgart vs Bologna (15:00)
+https://new.newkso.ru/wind/premium317/mono.m3u8
+#EXTINF:-1 tvg-id="371" tvg-name="Soccer : Viktoria Plzeň vs Slovácko" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Viktoria Plzeň vs Slovácko (15:00)
+https://new.newkso.ru/wind/premium371/mono.m3u8
+#EXTINF:-1 tvg-id="372" tvg-name="Soccer : Slovan Liberec vs Dukla Praha" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Slovan Liberec vs Dukla Praha (15:00)
+https://new.newkso.ru/wind/premium372/mono.m3u8
+#EXTINF:-1 tvg-id="373" tvg-name="Soccer : Zlín vs Mladá Boleslav" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Zlín vs Mladá Boleslav (15:00)
+https://new.newkso.ru/wind/premium373/mono.m3u8
+#EXTINF:-1 tvg-id="316" tvg-name="Soccer : Stal Mielec vs Górnik Łęczna" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Stal Mielec vs Górnik Łęczna (15:30)
+https://new.newkso.ru/wind/premium316/mono.m3u8
+#EXTINF:-1 tvg-id="339" tvg-name="Soccer : Arka Gdynia vs Pogoń Szczecin" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Arka Gdynia vs Pogoń Szczecin (15:30)
+https://new.newkso.ru/wind/premium339/mono.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="Soccer : NJ/NY Gotham FC vs Washington Spirit" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : NJ/NY Gotham FC vs Washington Spirit (16:00)
+https://new.newkso.ru/wind/premium306/mono.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="Soccer : St. Gallen vs Winterthur" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : St. Gallen vs Winterthur (16:00)
+https://new.newkso.ru/wind/premium315/mono.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="Soccer : Brest vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Brest vs Sassuolo (16:00)
+https://new.newkso.ru/wind/premium345/mono.m3u8
+#EXTINF:-1 tvg-id="379" tvg-name="Soccer : CSKA Sofia vs Cherno More" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : CSKA Sofia vs Cherno More (16:00)
+https://new.newkso.ru/wind/premium379/mono.m3u8
+#EXTINF:-1 tvg-id="391" tvg-name="Soccer : Samsunspor vs Gençlerbirliği" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Samsunspor vs Gençlerbirliği (16:00)
+https://new.newkso.ru/wind/premium391/mono.m3u8
+#EXTINF:-1 tvg-id="370" tvg-name="Soccer : Istra 1961 vs Lokomotiva Zagreb" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Istra 1961 vs Lokomotiva Zagreb (16:15)
+https://new.newkso.ru/wind/premium370/mono.m3u8
+#EXTINF:-1 tvg-id="378" tvg-name="Soccer : Westerlo vs Mechelen" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Westerlo vs Mechelen (16:15)
+https://new.newkso.ru/wind/premium378/mono.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="Soccer : Sheffield United vs Bristol City" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Sheffield United vs Bristol City (16:30)
+https://new.newkso.ru/wind/premium305/mono.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="Soccer : Feyenoord vs NAC Breda" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Feyenoord vs NAC Breda (16:45)
+https://new.newkso.ru/wind/premium319/mono.m3u8
+#EXTINF:-1 tvg-id="341" tvg-name="Soccer : Rangers vs Dundee" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Rangers vs Dundee (16:45)
 https://new.newkso.ru/wind/premium341/mono.m3u8
-#EXTINF:-1 tvg-id="1621" tvg-name="MLB : Pittsburgh Pirates vs Cincinnati Reds" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Pittsburgh Pirates vs Cincinnati Reds (22:40)
-https://new.newkso.ru/wind/premium1621/mono.m3u8
-#EXTINF:-1 tvg-id="1618" tvg-name="MLB : New York Yankees vs Houston Astros" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : New York Yankees vs Houston Astros (23:05)
-https://new.newkso.ru/wind/premium1618/mono.m3u8
-#EXTINF:-1 tvg-id="1602" tvg-name="MLB : Baltimore Orioles vs Oakland Athletics" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Baltimore Orioles vs Oakland Athletics (23:05)
-https://new.newkso.ru/wind/premium1602/mono.m3u8
-#EXTINF:-1 tvg-id="1609" tvg-name="MLB : Detroit Tigers vs Los Angeles Angels" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Detroit Tigers vs Los Angeles Angels (23:10)
-https://new.newkso.ru/wind/premium1609/mono.m3u8
-#EXTINF:-1 tvg-id="1601" tvg-name="MLB : Atlanta Braves vs Miami Marlins" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Atlanta Braves vs Miami Marlins (23:15)
-https://new.newkso.ru/wind/premium1601/mono.m3u8
-#EXTINF:-1 tvg-id="1605" tvg-name="MLB : Chicago White Sox vs Cleveland Guardians" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Chicago White Sox vs Cleveland Guardians (23:40)
-https://new.newkso.ru/wind/premium1605/mono.m3u8
-#EXTINF:-1 tvg-id="1627" tvg-name="MLB : Texas Rangers vs Philadelphia Phillies" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Texas Rangers vs Philadelphia Phillies (00:05)
-https://new.newkso.ru/wind/premium1627/mono.m3u8
-#EXTINF:-1 tvg-id="1616" tvg-name="MLB : Minnesota Twins vs Kansas City Royals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Minnesota Twins vs Kansas City Royals (00:10)
-https://new.newkso.ru/wind/premium1616/mono.m3u8
-#EXTINF:-1 tvg-id="1615" tvg-name="MLB : Milwaukee Brewers vs New York Mets" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Milwaukee Brewers vs New York Mets (00:10)
-https://new.newkso.ru/wind/premium1615/mono.m3u8
-#EXTINF:-1 tvg-id="1625" tvg-name="MLB : St. Louis Cardinals vs Chicago Cubs" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : St. Louis Cardinals vs Chicago Cubs (00:15)
-https://new.newkso.ru/wind/premium1625/mono.m3u8
-#EXTINF:-1 tvg-id="1622" tvg-name="MLB : San Diego Padres vs Boston Red Sox" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : San Diego Padres vs Boston Red Sox (01:40)
-https://new.newkso.ru/wind/premium1622/mono.m3u8
-#EXTINF:-1 tvg-id="1600" tvg-name="MLB : Arizona Diamondbacks vs Colorado Rockies" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Arizona Diamondbacks vs Colorado Rockies (01:40)
-https://new.newkso.ru/wind/premium1600/mono.m3u8
-#EXTINF:-1 tvg-id="1624" tvg-name="MLB : Seattle Mariners vs Tampa Bay Rays" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Seattle Mariners vs Tampa Bay Rays (01:40)
-https://new.newkso.ru/wind/premium1624/mono.m3u8
-#EXTINF:-1 tvg-id="1613" tvg-name="MLB : Los Angeles Dodgers vs Toronto Blue Jays" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : Los Angeles Dodgers vs Toronto Blue Jays (02:10)
-https://new.newkso.ru/wind/premium1613/mono.m3u8
-#EXTINF:-1 tvg-id="1623" tvg-name="MLB : San Francisco Giants vs Washington Nationals" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Beyzbol",MLB : San Francisco Giants vs Washington Nationals (02:15)
-https://new.newkso.ru/wind/premium1623/mono.m3u8
-#EXTINF:-1 tvg-id="1707" tvg-name="WNBA : New York Liberty vs Dallas Wings" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : New York Liberty vs Dallas Wings (23:30)
-https://new.newkso.ru/wind/premium1707/mono.m3u8
-#EXTINF:-1 tvg-id="1711" tvg-name="WNBA : Washington Mystics vs Minnesota Lynx" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : Washington Mystics vs Minnesota Lynx (23:30)
-https://new.newkso.ru/wind/premium1711/mono.m3u8
-#EXTINF:-1 tvg-id="1709" tvg-name="WNBA : Seattle Storm vs Las Vegas Aces" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Basketbol",WNBA : Seattle Storm vs Las Vegas Aces (02:00)
-https://new.newkso.ru/wind/premium1709/mono.m3u8
-#EXTINF:-1 tvg-id="383" tvg-name="Canberra Raiders vs Manly Sea Eagles" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Canberra Raiders vs Manly Sea Eagles (10:00)
+#EXTINF:-1 tvg-id="307" tvg-name="Soccer : Arsenal vs Athletic Club" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Arsenal vs Athletic Club (17:00)
+https://new.newkso.ru/wind/premium307/mono.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="Soccer : Portimonense vs Penafiel" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Portimonense vs Penafiel (17:00)
+https://new.newkso.ru/wind/premium321/mono.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="Soccer : Napoli vs Girona" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Napoli vs Girona (17:00)
+https://new.newkso.ru/wind/premium327/mono.m3u8
+#EXTINF:-1 tvg-id="387" tvg-name="Soccer : Olympique Marseille vs Aston Villa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Olympique Marseille vs Aston Villa (17:00)
+https://new.newkso.ru/wind/premium387/mono.m3u8
+#EXTINF:-1 tvg-id="338" tvg-name="Soccer : Tanzania vs Madagascar" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Tanzania vs Madagascar (17:00)
+https://new.newkso.ru/wind/premium338/mono.m3u8
+#EXTINF:-1 tvg-id="375" tvg-name="Soccer : APOEL Nicosia vs Apollon Limassol" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : APOEL Nicosia vs Apollon Limassol (17:00)
+https://new.newkso.ru/wind/premium375/mono.m3u8
+#EXTINF:-1 tvg-id="342" tvg-name="Soccer : York United vs Forge" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : York United vs Forge (17:00)
+https://new.newkso.ru/wind/premium342/mono.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="Soccer : San Martín San Juan vs Sarmiento" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : San Martín San Juan vs Sarmiento (17:30)
+https://new.newkso.ru/wind/premium326/mono.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="Soccer : Mallorca vs Hamburger SV" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Mallorca vs Hamburger SV (18:00)
+https://new.newkso.ru/wind/premium317/mono.m3u8
+#EXTINF:-1 tvg-id="330" tvg-name="Soccer : Deportivo La Coruña vs Le Havre" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Deportivo La Coruña vs Le Havre (18:00)
+https://new.newkso.ru/wind/premium330/mono.m3u8
+#EXTINF:-1 tvg-id="340" tvg-name="Soccer : Peñarol vs Nacional" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Peñarol vs Nacional (18:00)
+https://new.newkso.ru/wind/premium340/mono.m3u8
+#EXTINF:-1 tvg-id="351" tvg-name="Soccer : Simulcast" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Simulcast (18:00)
+https://new.newkso.ru/wind/premium351/mono.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="Soccer : Laval vs Saint-Étienne" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Laval vs Saint-Étienne (18:00)
+https://new.newkso.ru/wind/premium352/mono.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="Soccer : Montpellier vs Red Star" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Montpellier vs Red Star (18:00)
+https://new.newkso.ru/wind/premium354/mono.m3u8
+#EXTINF:-1 tvg-id="355" tvg-name="Soccer : Dunkerque vs Clermont" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Dunkerque vs Clermont (18:00)
+https://new.newkso.ru/wind/premium355/mono.m3u8
+#EXTINF:-1 tvg-id="356" tvg-name="Soccer : Pau FC vs Annecy FC" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Pau FC vs Annecy FC (18:00)
+https://new.newkso.ru/wind/premium356/mono.m3u8
+#EXTINF:-1 tvg-id="357" tvg-name="Soccer : Rodez vs Nancy" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Rodez vs Nancy (18:00)
+https://new.newkso.ru/wind/premium357/mono.m3u8
+#EXTINF:-1 tvg-id="358" tvg-name="Soccer : Troyes vs Grenoble" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Troyes vs Grenoble (18:00)
+https://new.newkso.ru/wind/premium358/mono.m3u8
+#EXTINF:-1 tvg-id="371" tvg-name="Soccer : Slavia Praha vs Teplice" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Slavia Praha vs Teplice (18:00)
+https://new.newkso.ru/wind/premium371/mono.m3u8
+#EXTINF:-1 tvg-id="374" tvg-name="Soccer : Granada vs Al Ain" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Granada vs Al Ain (18:00)
+https://new.newkso.ru/wind/premium374/mono.m3u8
+#EXTINF:-1 tvg-id="388" tvg-name="Soccer : Heerenveen vs Volendam" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Heerenveen vs Volendam (18:00)
+https://new.newkso.ru/wind/premium388/mono.m3u8
+#EXTINF:-1 tvg-id="379" tvg-name="Soccer : Slavia Sofia vs Ludogorets" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Slavia Sofia vs Ludogorets (18:15)
+https://new.newkso.ru/wind/premium379/mono.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="Soccer : Kaiserslautern vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Kaiserslautern vs Schalke 04 (18:30)
+https://new.newkso.ru/wind/premium311/mono.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="Soccer : Luzern vs Thun" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Luzern vs Thun (18:30)
+https://new.newkso.ru/wind/premium315/mono.m3u8
+#EXTINF:-1 tvg-id="392" tvg-name="Soccer : Antalyaspor vs Kasımpaşa" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Antalyaspor vs Kasımpaşa (18:30)
+https://new.newkso.ru/wind/premium392/mono.m3u8
+#EXTINF:-1 tvg-id="378" tvg-name="Soccer : Gent vs Union Saint-Gilloise" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Gent vs Union Saint-Gilloise (18:45)
+https://new.newkso.ru/wind/premium378/mono.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="Soccer : PSV vs Sparta Rotterdam" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : PSV vs Sparta Rotterdam (19:00)
+https://new.newkso.ru/wind/premium319/mono.m3u8
+#EXTINF:-1 tvg-id="344" tvg-name="Soccer : Valencia vs Torino" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Valencia vs Torino (19:00)
+https://new.newkso.ru/wind/premium344/mono.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="Soccer : Palermo vs Manchester City" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Palermo vs Manchester City (19:00)
+https://new.newkso.ru/wind/premium348/mono.m3u8
+#EXTINF:-1 tvg-id="370" tvg-name="Soccer : Osijek vs Rijeka" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Osijek vs Rijeka (19:00)
+https://new.newkso.ru/wind/premium370/mono.m3u8
+#EXTINF:-1 tvg-id="322" tvg-name="Soccer : Arouca vs AVS" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Arouca vs AVS (19:30)
+https://new.newkso.ru/wind/premium322/mono.m3u8
+#EXTINF:-1 tvg-id="359" tvg-name="Soccer : Porto vs Vitória Guimarães" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Porto vs Vitória Guimarães (19:30)
+https://new.newkso.ru/wind/premium359/mono.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="Soccer : Boca Juniors vs Racing Club" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Boca Juniors vs Racing Club (19:30)
+https://new.newkso.ru/wind/premium327/mono.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="Soccer : Huesca vs Real Zaragoza" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Huesca vs Real Zaragoza (19:30)
+https://new.newkso.ru/wind/premium329/mono.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Soccer : Cavalry vs HFX Wanderers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Cavalry vs HFX Wanderers (21:00)
 https://new.newkso.ru/wind/premium383/mono.m3u8
-#EXTINF:-1 tvg-id="383" tvg-name="Warrington Wolves vs Wigan Warriors" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Warrington Wolves vs Wigan Warriors (19:00)
+#EXTINF:-1 tvg-id="326" tvg-name="Soccer : Independiente vs River Plate" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Independiente vs River Plate (21:30)
+https://new.newkso.ru/wind/premium326/mono.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="Soccer : São Paulo vs Vitória" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : São Paulo vs Vitória (21:30)
+https://new.newkso.ru/wind/premium380/mono.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="Soccer : Orlando Pride vs Racing Louisville FC" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Orlando Pride vs Racing Louisville FC (23:30)
+https://new.newkso.ru/wind/premium302/mono.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="Soccer : Fortaleza vs Botafogo" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : Fortaleza vs Botafogo (23:30)
+https://new.newkso.ru/wind/premium319/mono.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="Soccer : New England vs DC United" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : New England vs DC United (23:30)
+https://new.newkso.ru/wind/premium331/mono.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Soccer : New York City vs Columbus Crew" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Futbol",Soccer : New York City vs Columbus Crew (23:30)
+https://new.newkso.ru/wind/premium332/mono.m3u8
+#EXTINF:-1 tvg-id="318" tvg-name="Supercars Ipswich 440" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Supercars Ipswich 440 (06:00)
+https://new.newkso.ru/wind/premium318/mono.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="DTM | Nurburgring" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",DTM | Nurburgring (11:30)
+https://new.newkso.ru/wind/premium326/mono.m3u8
+#EXTINF:-1 tvg-id="381" tvg-name="IndyCar: Bitnile.com Grand Prix of Portland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",IndyCar: Bitnile.com Grand Prix of Portland (16:00)
+https://new.newkso.ru/wind/premium381/mono.m3u8
+#EXTINF:-1 tvg-id="381" tvg-name="IndyCar: Bitnile.com Grand Prix of Portland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",IndyCar: Bitnile.com Grand Prix of Portland (18:30)
+https://new.newkso.ru/wind/premium381/mono.m3u8
+#EXTINF:-1 tvg-id="381" tvg-name="Indy NXT Grand Prix of Portland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Motor Sporları",Indy NXT Grand Prix of Portland (20:30)
+https://new.newkso.ru/wind/premium381/mono.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="KSW 109 : Piotr Kuberski vs Radoslaw Paczuski" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",KSW 109 : Piotr Kuberski vs Radoslaw Paczuski (17:00)
+https://new.newkso.ru/wind/premium349/mono.m3u8
+#EXTINF:-1 tvg-id="368" tvg-name="Oktagon 2025 : Cecilie Maria Bolander vs Lucia Szabova" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",Oktagon 2025 : Cecilie Maria Bolander vs Lucia Szabova (19:00)
+https://new.newkso.ru/wind/premium368/mono.m3u8
+#EXTINF:-1 tvg-id="339" tvg-name="Roman Dolidze vs Anthony Hernandez" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="WWE/MMA/Boks",Roman Dolidze vs Anthony Hernandez (23:00)
+https://new.newkso.ru/wind/premium339/mono.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="Australian Darts Masters" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Dart",Australian Darts Masters (09:00)
+https://new.newkso.ru/wind/premium317/mono.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="NFL : Buffalo Bills vs New York Giants" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Buffalo Bills vs New York Giants (17:00)
+https://new.newkso.ru/wind/premium304/mono.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="CFL : Toronto Argonauts vs Ottawa Redblacks" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Toronto Argonauts vs Ottawa Redblacks (19:00)
+https://new.newkso.ru/wind/premium308/mono.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="NFL : Minnesota Vikings vs Houston Texans" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Minnesota Vikings vs Houston Texans (20:00)
+https://new.newkso.ru/wind/premium304/mono.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="CFL : Calgary Stampeders vs Winnipeg Blue Bombers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",CFL : Calgary Stampeders vs Winnipeg Blue Bombers (23:00)
+https://new.newkso.ru/wind/premium303/mono.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="NFL : Los Angeles Rams vs Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Los Angeles Rams vs Dallas Cowboys (23:00)
+https://new.newkso.ru/wind/premium304/mono.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="NFL : Jacksonville Jaguars vs Pittsburgh Steelers" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Jacksonville Jaguars vs Pittsburgh Steelers (23:00)
+https://new.newkso.ru/wind/premium305/mono.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="NFL : Tampa Bay Buccaneers vs Tennessee Titans" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="AM. Futbol",NFL : Tampa Bay Buccaneers vs Tennessee Titans (23:30)
+https://new.newkso.ru/wind/premium306/mono.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="Tasman vs Manawatu" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Tasman vs Manawatu (04:30)
+https://new.newkso.ru/wind/premium331/mono.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Newcastle Knights W vs Wests Tigers W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Newcastle Knights W vs Wests Tigers W (05:15)
 https://new.newkso.ru/wind/premium383/mono.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Canterbury vs Auckland" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Canterbury vs Auckland (07:05)
+https://new.newkso.ru/wind/premium332/mono.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Canterbury-Bankstown Bulldogs W vs New Zealand Warriors W" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Canterbury-Bankstown Bulldogs W vs New Zealand Warriors W (07:15)
+https://new.newkso.ru/wind/premium383/mono.m3u8
+#EXTINF:-1 tvg-id="318" tvg-name="Redcliffe vs Sydney Roosters" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Redcliffe vs Sydney Roosters (07:15)
+https://new.newkso.ru/wind/premium318/mono.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Huddersfield vs Catalans Dragons" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",Huddersfield vs Catalans Dragons (16:30)
+https://new.newkso.ru/wind/premium383/mono.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="France vs England" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events-kanallar.png" group-title="Rugby",France vs England (19:00)
+https://new.newkso.ru/wind/premium350/mono.m3u8
