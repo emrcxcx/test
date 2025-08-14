@@ -11661,6 +11661,20 @@ https://ddh2new.ddh2.ru/ddh2/premium756/mono.m3u8
 https://top2new.top2.ru/top2/premium756/mono.m3u8
 #EXTINF:-1 tvg-country="Plus" tvg-id="756" tvg-name="FOX Soccer Plus (wiki)" group-title="Plus Kanalları", FOX Soccer Plus (wiki)
 https://wikinew.wiki.ru/wiki/premium756/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (wind)" group-title="Plus Kanalları", Sky Sports+ Plus (wind)
+https://new.newkso.ru/wind/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (zeko)" group-title="Plus Kanalları", Sky Sports+ Plus (zeko)
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (ddy6)" group-title="Plus Kanalları", Sky Sports+ Plus (ddy6)
+https://ddy6new.newkso.ru/ddy6/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (dokko1)" group-title="Plus Kanalları", Sky Sports+ Plus (dokko1)
+https://dokko1new.newkso.ru/dokko1/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (ddh2)" group-title="Plus Kanalları", Sky Sports+ Plus (ddh2)
+https://ddh2new.ddh2.ru/ddh2/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (top2)" group-title="Plus Kanalları", Sky Sports+ Plus (top2)
+https://top2new.top2.ru/top2/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (wiki)" group-title="Plus Kanalları", Sky Sports+ Plus (wiki)
+https://wikinew.wiki.ru/wiki/premium36/mono.m3u8
 #EXTINF:-1 tvg-country="Plus" tvg-id="756" tvg-name="FOX Soccer Plus (wind)" group-title="Plus Kanalları", FOX Soccer Plus (wind)
 https://new.newkso.ru/wind/premium756/mono.m3u8
 #EXTINF:-1 tvg-country="Plus" tvg-id="756" tvg-name="FOX Soccer Plus (zeko)" group-title="Plus Kanalları", FOX Soccer Plus (zeko)
@@ -11675,6 +11689,20 @@ https://ddh2new.ddh2.ru/ddh2/premium756/mono.m3u8
 https://top2new.top2.ru/top2/premium756/mono.m3u8
 #EXTINF:-1 tvg-country="Plus" tvg-id="756" tvg-name="FOX Soccer Plus (wiki)" group-title="Plus Kanalları", FOX Soccer Plus (wiki)
 https://wikinew.wiki.ru/wiki/premium756/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (wind)" group-title="Plus Kanalları", Sky Sports+ Plus (wind)
+https://new.newkso.ru/wind/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (zeko)" group-title="Plus Kanalları", Sky Sports+ Plus (zeko)
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (ddy6)" group-title="Plus Kanalları", Sky Sports+ Plus (ddy6)
+https://ddy6new.newkso.ru/ddy6/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (dokko1)" group-title="Plus Kanalları", Sky Sports+ Plus (dokko1)
+https://dokko1new.newkso.ru/dokko1/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (ddh2)" group-title="Plus Kanalları", Sky Sports+ Plus (ddh2)
+https://ddh2new.ddh2.ru/ddh2/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (top2)" group-title="Plus Kanalları", Sky Sports+ Plus (top2)
+https://top2new.top2.ru/top2/premium36/mono.m3u8
+#EXTINF:-1 tvg-country="Plus" tvg-id="36" tvg-name="Sky Sports+ Plus (wiki)" group-title="Plus Kanalları", Sky Sports+ Plus (wiki)
+https://wikinew.wiki.ru/wiki/premium36/mono.m3u8
 #EXTINF:-1 tvg-country="Poland" tvg-id="48" tvg-name="Canal+ Sport Poland (wind)" group-title="Poland Kanalları", Canal+ Sport Poland (wind)
 https://new.newkso.ru/wind/premium48/mono.m3u8
 #EXTINF:-1 tvg-country="Poland" tvg-id="48" tvg-name="Canal+ Sport Poland (zeko)" group-title="Poland Kanalları", Canal+ Sport Poland (zeko)
@@ -16099,20 +16127,6 @@ https://ddh2new.ddh2.ru/ddh2/premium35/mono.m3u8
 https://top2new.top2.ru/top2/premium35/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="35" tvg-name="Sky Sports Football UK (wiki)" group-title="UK Kanalları", Sky Sports Football UK (wiki)
 https://wikinew.wiki.ru/wiki/premium35/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (wind)" group-title="UK Kanalları", Sky Sports Arena UK (wind)
-https://new.newkso.ru/wind/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (zeko)" group-title="UK Kanalları", Sky Sports Arena UK (zeko)
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (ddy6)" group-title="UK Kanalları", Sky Sports Arena UK (ddy6)
-https://ddy6new.newkso.ru/ddy6/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (dokko1)" group-title="UK Kanalları", Sky Sports Arena UK (dokko1)
-https://dokko1new.newkso.ru/dokko1/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (ddh2)" group-title="UK Kanalları", Sky Sports Arena UK (ddh2)
-https://ddh2new.ddh2.ru/ddh2/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (top2)" group-title="UK Kanalları", Sky Sports Arena UK (top2)
-https://top2new.top2.ru/top2/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (wiki)" group-title="UK Kanalları", Sky Sports Arena UK (wiki)
-https://wikinew.wiki.ru/wiki/premium36/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="37" tvg-name="Sky Sports Action UK (wind)" group-title="UK Kanalları", Sky Sports Action UK (wind)
 https://new.newkso.ru/wind/premium37/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="37" tvg-name="Sky Sports Action UK (zeko)" group-title="UK Kanalları", Sky Sports Action UK (zeko)
@@ -16757,20 +16771,6 @@ https://ddh2new.ddh2.ru/ddh2/premium35/mono.m3u8
 https://top2new.top2.ru/top2/premium35/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="35" tvg-name="Sky Sports Football UK (wiki)" group-title="UK Kanalları", Sky Sports Football UK (wiki)
 https://wikinew.wiki.ru/wiki/premium35/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (wind)" group-title="UK Kanalları", Sky Sports Arena UK (wind)
-https://new.newkso.ru/wind/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (zeko)" group-title="UK Kanalları", Sky Sports Arena UK (zeko)
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (ddy6)" group-title="UK Kanalları", Sky Sports Arena UK (ddy6)
-https://ddy6new.newkso.ru/ddy6/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (dokko1)" group-title="UK Kanalları", Sky Sports Arena UK (dokko1)
-https://dokko1new.newkso.ru/dokko1/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (ddh2)" group-title="UK Kanalları", Sky Sports Arena UK (ddh2)
-https://ddh2new.ddh2.ru/ddh2/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (top2)" group-title="UK Kanalları", Sky Sports Arena UK (top2)
-https://top2new.top2.ru/top2/premium36/mono.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-id="36" tvg-name="Sky Sports Arena UK (wiki)" group-title="UK Kanalları", Sky Sports Arena UK (wiki)
-https://wikinew.wiki.ru/wiki/premium36/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="37" tvg-name="Sky Sports Action UK (wind)" group-title="UK Kanalları", Sky Sports Action UK (wind)
 https://new.newkso.ru/wind/premium37/mono.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-id="37" tvg-name="Sky Sports Action UK (zeko)" group-title="UK Kanalları", Sky Sports Action UK (zeko)
