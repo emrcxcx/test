@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="1" tvg-id="61" tvg-name="Bi Kanal" group-title="Bi Kanal", Bi Kanal
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+#EXTINF:-1 tvg-country="1" tvg-id="61" tvg-name="beIN Sports MENA English 1 (wind)" group-title="1 Kanalları", beIN Sports MENA English 1 (wind)
+https://new.newkso.ru/wind/premium61/mono.m3u8
 #EXTINF:-1 tvg-country="1" tvg-id="61" tvg-name="beIN Sports MENA English 1 (zeko)" group-title="1 Kanalları", beIN Sports MENA English 1 (zeko)
 https://zekonew.newkso.ru/zeko/premium61/mono.m3u8
 #EXTINF:-1 tvg-country="1" tvg-id="61" tvg-name="beIN Sports MENA English 1 (ddy6)" group-title="1 Kanalları", beIN Sports MENA English 1 (ddy6)
